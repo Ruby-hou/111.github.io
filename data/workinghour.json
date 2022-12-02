@@ -1,0 +1,92 @@
+[
+    {
+      "stars": "1.0",
+      "work_hours": "weekdays",
+      "count": 28.076619671030546
+    },
+    {
+      "stars": "1.5",
+      "work_hours": "weekdays",
+      "count": 36.821434847256015
+    },
+    {
+      "stars": "2.0",
+      "work_hours": "weekdays",
+      "count": 38.3439015429831
+    },
+    {
+      "stars": "2.5",
+      "work_hours": "weekdays",
+      "count": 38.41183640681754
+    },
+    {
+      "stars": "3.0",
+      "work_hours": "weekdays",
+      "count": 38.497008616485125
+    },
+    {
+      "stars": "3.5",
+      "work_hours": "weekdays",
+      "count": 38.340547657654255
+    },
+    {
+      "stars": "4.0",
+      "work_hours": "weekdays",
+      "count": 36.93143025435074
+    },
+    {
+      "stars": "4.5",
+      "work_hours": "weekdays",
+      "count": 34.83719632586488
+    },
+    {
+      "stars": "5.0",
+      "work_hours": "weekdays",
+      "count": 33.57294822264467
+    },
+    {
+      "stars": "1.0",
+      "work_hours": "weekend",
+      "count": 6.565533736153071
+    },
+    {
+      "stars": "1.5",
+      "work_hours": "weekend",
+      "count": 10.894140308191403
+    },
+    {
+      "stars": "2.0",
+      "work_hours": "weekend",
+      "count": 11.961951996081313
+    },
+    {
+      "stars": "2.5",
+      "work_hours": "weekend",
+      "count": 12.206290164850516
+    },
+    {
+      "stars": "3.0",
+      "work_hours": "weekend",
+      "count": 12.794572698206254
+    },
+    {
+      "stars": "3.5",
+      "work_hours": "weekend",
+      "count": 12.77667584247772
+    },
+    {
+      "stars": "4.0",
+      "work_hours": "weekend",
+      "count": 11.966310040160643
+    },
+    {
+      "stars": "4.5",
+      "work_hours": "weekend",
+      "count": 10.142679935739427
+    },
+    {
+      "stars": "5.0",
+      "work_hours": "weekend",
+      "count": 7.527829561946812
+    }
+  ]

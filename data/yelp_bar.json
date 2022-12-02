@@ -1,0 +1,2164 @@
+{
+    "all": [
+        {
+            "category": "Active Life",
+            "count": 4271
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 1009
+        },
+        {
+            "category": "Automotive",
+            "count": 8731
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 12280
+        },
+        {
+            "category": "Education",
+            "count": 383
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 4437
+        },
+        {
+            "category": "Financial Services",
+            "count": 742
+        },
+        {
+            "category": "Food",
+            "count": 12309
+        },
+        {
+            "category": "Health & Medical",
+            "count": 7687
+        },
+        {
+            "category": "Home Services",
+            "count": 11330
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 1546
+        },
+        {
+            "category": "Local Flavor",
+            "count": 125
+        },
+        {
+            "category": "Local Services",
+            "count": 4759
+        },
+        {
+            "category": "Mass Media",
+            "count": 91
+        },
+        {
+            "category": "Nightlife",
+            "count": 2696
+        },
+        {
+            "category": "Other",
+            "count": 103
+        },
+        {
+            "category": "Pets",
+            "count": 3208
+        },
+        {
+            "category": "Professional Services",
+            "count": 633
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 519
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 174
+        },
+        {
+            "category": "Restaurants",
+            "count": 52268
+        },
+        {
+            "category": "Shopping",
+            "count": 21045
+        }
+    ],
+    "AZ": [
+        {
+            "category": "Active Life",
+            "count": 277
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 68
+        },
+        {
+            "category": "Automotive",
+            "count": 691
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 828
+        },
+        {
+            "category": "Education",
+            "count": 38
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 249
+        },
+        {
+            "category": "Financial Services",
+            "count": 85
+        },
+        {
+            "category": "Food",
+            "count": 701
+        },
+        {
+            "category": "Health & Medical",
+            "count": 699
+        },
+        {
+            "category": "Home Services",
+            "count": 1132
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 94
+        },
+        {
+            "category": "Local Flavor",
+            "count": 4
+        },
+        {
+            "category": "Local Services",
+            "count": 361
+        },
+        {
+            "category": "Mass Media",
+            "count": 7
+        },
+        {
+            "category": "Nightlife",
+            "count": 108
+        },
+        {
+            "category": "Other",
+            "count": 6
+        },
+        {
+            "category": "Pets",
+            "count": 241
+        },
+        {
+            "category": "Professional Services",
+            "count": 49
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 25
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 11
+        },
+        {
+            "category": "Restaurants",
+            "count": 2671
+        },
+        {
+            "category": "Shopping",
+            "count": 1567
+        }
+    ],
+    "CA": [
+        {
+            "category": "Active Life",
+            "count": 205
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 35
+        },
+        {
+            "category": "Automotive",
+            "count": 260
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 426
+        },
+        {
+            "category": "Education",
+            "count": 18
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 317
+        },
+        {
+            "category": "Financial Services",
+            "count": 48
+        },
+        {
+            "category": "Food",
+            "count": 432
+        },
+        {
+            "category": "Health & Medical",
+            "count": 413
+        },
+        {
+            "category": "Home Services",
+            "count": 517
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 86
+        },
+        {
+            "category": "Local Flavor",
+            "count": 5
+        },
+        {
+            "category": "Local Services",
+            "count": 197
+        },
+        {
+            "category": "Mass Media",
+            "count": 3
+        },
+        {
+            "category": "Nightlife",
+            "count": 60
+        },
+        {
+            "category": "Other",
+            "count": 1
+        },
+        {
+            "category": "Pets",
+            "count": 89
+        },
+        {
+            "category": "Professional Services",
+            "count": 63
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 10
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 12
+        },
+        {
+            "category": "Restaurants",
+            "count": 1161
+        },
+        {
+            "category": "Shopping",
+            "count": 845
+        }
+    ],
+    "CO": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 0
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 0
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 1
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 1
+        },
+        {
+            "category": "Shopping",
+            "count": 1
+        }
+    ],
+    "DE": [
+        {
+            "category": "Active Life",
+            "count": 38
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 12
+        },
+        {
+            "category": "Automotive",
+            "count": 119
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 183
+        },
+        {
+            "category": "Education",
+            "count": 4
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 60
+        },
+        {
+            "category": "Financial Services",
+            "count": 20
+        },
+        {
+            "category": "Food",
+            "count": 179
+        },
+        {
+            "category": "Health & Medical",
+            "count": 69
+        },
+        {
+            "category": "Home Services",
+            "count": 130
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 16
+        },
+        {
+            "category": "Local Flavor",
+            "count": 1
+        },
+        {
+            "category": "Local Services",
+            "count": 68
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 26
+        },
+        {
+            "category": "Other",
+            "count": 3
+        },
+        {
+            "category": "Pets",
+            "count": 49
+        },
+        {
+            "category": "Professional Services",
+            "count": 6
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 8
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 961
+        },
+        {
+            "category": "Shopping",
+            "count": 313
+        }
+    ],
+    "FL": [
+        {
+            "category": "Active Life",
+            "count": 888
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 138
+        },
+        {
+            "category": "Automotive",
+            "count": 1570
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 2314
+        },
+        {
+            "category": "Education",
+            "count": 69
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 753
+        },
+        {
+            "category": "Financial Services",
+            "count": 113
+        },
+        {
+            "category": "Food",
+            "count": 2128
+        },
+        {
+            "category": "Health & Medical",
+            "count": 1538
+        },
+        {
+            "category": "Home Services",
+            "count": 2282
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 253
+        },
+        {
+            "category": "Local Flavor",
+            "count": 7
+        },
+        {
+            "category": "Local Services",
+            "count": 809
+        },
+        {
+            "category": "Mass Media",
+            "count": 8
+        },
+        {
+            "category": "Nightlife",
+            "count": 429
+        },
+        {
+            "category": "Other",
+            "count": 21
+        },
+        {
+            "category": "Pets",
+            "count": 633
+        },
+        {
+            "category": "Professional Services",
+            "count": 106
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 97
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 33
+        },
+        {
+            "category": "Restaurants",
+            "count": 8731
+        },
+        {
+            "category": "Shopping",
+            "count": 3410
+        }
+    ],
+    "HI": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 0
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 0
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 1
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 1
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ],
+    "ID": [
+        {
+            "category": "Active Life",
+            "count": 136
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 23
+        },
+        {
+            "category": "Automotive",
+            "count": 288
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 391
+        },
+        {
+            "category": "Education",
+            "count": 13
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 122
+        },
+        {
+            "category": "Financial Services",
+            "count": 27
+        },
+        {
+            "category": "Food",
+            "count": 381
+        },
+        {
+            "category": "Health & Medical",
+            "count": 240
+        },
+        {
+            "category": "Home Services",
+            "count": 448
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 30
+        },
+        {
+            "category": "Local Flavor",
+            "count": 1
+        },
+        {
+            "category": "Local Services",
+            "count": 165
+        },
+        {
+            "category": "Mass Media",
+            "count": 3
+        },
+        {
+            "category": "Nightlife",
+            "count": 76
+        },
+        {
+            "category": "Other",
+            "count": 3
+        },
+        {
+            "category": "Pets",
+            "count": 109
+        },
+        {
+            "category": "Professional Services",
+            "count": 14
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 11
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 7
+        },
+        {
+            "category": "Restaurants",
+            "count": 1302
+        },
+        {
+            "category": "Shopping",
+            "count": 677
+        }
+    ],
+    "IL": [
+        {
+            "category": "Active Life",
+            "count": 42
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 16
+        },
+        {
+            "category": "Automotive",
+            "count": 133
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 135
+        },
+        {
+            "category": "Education",
+            "count": 3
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 84
+        },
+        {
+            "category": "Financial Services",
+            "count": 2
+        },
+        {
+            "category": "Food",
+            "count": 180
+        },
+        {
+            "category": "Health & Medical",
+            "count": 69
+        },
+        {
+            "category": "Home Services",
+            "count": 79
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 15
+        },
+        {
+            "category": "Local Flavor",
+            "count": 4
+        },
+        {
+            "category": "Local Services",
+            "count": 36
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 43
+        },
+        {
+            "category": "Other",
+            "count": 1
+        },
+        {
+            "category": "Pets",
+            "count": 53
+        },
+        {
+            "category": "Professional Services",
+            "count": 3
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 10
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 983
+        },
+        {
+            "category": "Shopping",
+            "count": 254
+        }
+    ],
+    "IN": [
+        {
+            "category": "Active Life",
+            "count": 369
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 119
+        },
+        {
+            "category": "Automotive",
+            "count": 634
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 895
+        },
+        {
+            "category": "Education",
+            "count": 26
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 365
+        },
+        {
+            "category": "Financial Services",
+            "count": 38
+        },
+        {
+            "category": "Food",
+            "count": 986
+        },
+        {
+            "category": "Health & Medical",
+            "count": 419
+        },
+        {
+            "category": "Home Services",
+            "count": 717
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 88
+        },
+        {
+            "category": "Local Flavor",
+            "count": 20
+        },
+        {
+            "category": "Local Services",
+            "count": 310
+        },
+        {
+            "category": "Mass Media",
+            "count": 4
+        },
+        {
+            "category": "Nightlife",
+            "count": 182
+        },
+        {
+            "category": "Other",
+            "count": 4
+        },
+        {
+            "category": "Pets",
+            "count": 259
+        },
+        {
+            "category": "Professional Services",
+            "count": 23
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 64
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 15
+        },
+        {
+            "category": "Restaurants",
+            "count": 4150
+        },
+        {
+            "category": "Shopping",
+            "count": 1560
+        }
+    ],
+    "LA": [
+        {
+            "category": "Active Life",
+            "count": 249
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 104
+        },
+        {
+            "category": "Automotive",
+            "count": 461
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 655
+        },
+        {
+            "category": "Education",
+            "count": 23
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 479
+        },
+        {
+            "category": "Financial Services",
+            "count": 45
+        },
+        {
+            "category": "Food",
+            "count": 868
+        },
+        {
+            "category": "Health & Medical",
+            "count": 339
+        },
+        {
+            "category": "Home Services",
+            "count": 397
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 249
+        },
+        {
+            "category": "Local Flavor",
+            "count": 29
+        },
+        {
+            "category": "Local Services",
+            "count": 284
+        },
+        {
+            "category": "Mass Media",
+            "count": 8
+        },
+        {
+            "category": "Nightlife",
+            "count": 414
+        },
+        {
+            "category": "Other",
+            "count": 8
+        },
+        {
+            "category": "Pets",
+            "count": 155
+        },
+        {
+            "category": "Professional Services",
+            "count": 17
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 58
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 15
+        },
+        {
+            "category": "Restaurants",
+            "count": 3640
+        },
+        {
+            "category": "Shopping",
+            "count": 1427
+        }
+    ],
+    "MA": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 0
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 0
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 1
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 1
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 0
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ],
+    "MI": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 1
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 0
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 0
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ],
+    "MO": [
+        {
+            "category": "Active Life",
+            "count": 291
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 73
+        },
+        {
+            "category": "Automotive",
+            "count": 621
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 776
+        },
+        {
+            "category": "Education",
+            "count": 27
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 320
+        },
+        {
+            "category": "Financial Services",
+            "count": 37
+        },
+        {
+            "category": "Food",
+            "count": 833
+        },
+        {
+            "category": "Health & Medical",
+            "count": 444
+        },
+        {
+            "category": "Home Services",
+            "count": 690
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 106
+        },
+        {
+            "category": "Local Flavor",
+            "count": 11
+        },
+        {
+            "category": "Local Services",
+            "count": 335
+        },
+        {
+            "category": "Mass Media",
+            "count": 9
+        },
+        {
+            "category": "Nightlife",
+            "count": 234
+        },
+        {
+            "category": "Other",
+            "count": 6
+        },
+        {
+            "category": "Pets",
+            "count": 222
+        },
+        {
+            "category": "Professional Services",
+            "count": 37
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 37
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 17
+        },
+        {
+            "category": "Restaurants",
+            "count": 4247
+        },
+        {
+            "category": "Shopping",
+            "count": 1540
+        }
+    ],
+    "MT": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 0
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 0
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 1
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ],
+
+    "NJ": [
+        {
+            "category": "Active Life",
+            "count": 222
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 42
+        },
+        {
+            "category": "Automotive",
+            "count": 580
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 742
+        },
+        {
+            "category": "Education",
+            "count": 14
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 211
+        },
+        {
+            "category": "Financial Services",
+            "count": 26
+        },
+        {
+            "category": "Food",
+            "count": 785
+        },
+        {
+            "category": "Health & Medical",
+            "count": 404
+        },
+        {
+            "category": "Home Services",
+            "count": 554
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 57
+        },
+        {
+            "category": "Local Flavor",
+            "count": 2
+        },
+        {
+            "category": "Local Services",
+            "count": 234
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 61
+        },
+        {
+            "category": "Other",
+            "count": 9
+        },
+        {
+            "category": "Pets",
+            "count": 181
+        },
+        {
+            "category": "Professional Services",
+            "count": 32
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 18
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 2
+        },
+        {
+            "category": "Restaurants",
+            "count": 3341
+        },
+        {
+            "category": "Shopping",
+            "count": 1019
+        }
+    ],
+    "NV": [
+        {
+            "category": "Active Life",
+            "count": 220
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 59
+        },
+        {
+            "category": "Automotive",
+            "count": 553
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 576
+        },
+        {
+            "category": "Education",
+            "count": 32
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 195
+        },
+        {
+            "category": "Financial Services",
+            "count": 92
+        },
+        {
+            "category": "Food",
+            "count": 565
+        },
+        {
+            "category": "Health & Medical",
+            "count": 615
+        },
+        {
+            "category": "Home Services",
+            "count": 963
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 74
+        },
+        {
+            "category": "Local Flavor",
+            "count": 11
+        },
+        {
+            "category": "Local Services",
+            "count": 332
+        },
+        {
+            "category": "Mass Media",
+            "count": 4
+        },
+        {
+            "category": "Nightlife",
+            "count": 203
+        },
+        {
+            "category": "Other",
+            "count": 9
+        },
+        {
+            "category": "Pets",
+            "count": 168
+        },
+        {
+            "category": "Professional Services",
+            "count": 81
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 21
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 14
+        },
+        {
+            "category": "Restaurants",
+            "count": 1673
+        },
+        {
+            "category": "Shopping",
+            "count": 1255
+        }
+    ],
+    "PA": [
+        {
+            "category": "Active Life",
+            "count": 840
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 203
+        },
+        {
+            "category": "Automotive",
+            "count": 1907
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 2981
+        },
+        {
+            "category": "Education",
+            "count": 84
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 730
+        },
+        {
+            "category": "Financial Services",
+            "count": 143
+        },
+        {
+            "category": "Food",
+            "count": 2786
+        },
+        {
+            "category": "Health & Medical",
+            "count": 1747
+        },
+        {
+            "category": "Home Services",
+            "count": 2404
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 303
+        },
+        {
+            "category": "Local Flavor",
+            "count": 20
+        },
+        {
+            "category": "Local Services",
+            "count": 1159
+        },
+        {
+            "category": "Mass Media",
+            "count": 24
+        },
+        {
+            "category": "Nightlife",
+            "count": 515
+        },
+        {
+            "category": "Other",
+            "count": 26
+        },
+        {
+            "category": "Pets",
+            "count": 671
+        },
+        {
+            "category": "Professional Services",
+            "count": 162
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 91
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 29
+        },
+        {
+            "category": "Restaurants",
+            "count": 12641
+        },
+        {
+            "category": "Shopping",
+            "count": 4573
+        }
+    ],
+    "SD": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 0
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 1
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 0
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ],
+    "TN": [
+        {
+            "category": "Active Life",
+            "count": 333
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 67
+        },
+        {
+            "category": "Automotive",
+            "count": 675
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 957
+        },
+        {
+            "category": "Education",
+            "count": 22
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 462
+        },
+        {
+            "category": "Financial Services",
+            "count": 48
+        },
+        {
+            "category": "Food",
+            "count": 933
+        },
+        {
+            "category": "Health & Medical",
+            "count": 559
+        },
+        {
+            "category": "Home Services",
+            "count": 890
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 147
+        },
+        {
+            "category": "Local Flavor",
+            "count": 4
+        },
+        {
+            "category": "Local Services",
+            "count": 365
+        },
+        {
+            "category": "Mass Media",
+            "count": 6
+        },
+        {
+            "category": "Nightlife",
+            "count": 221
+        },
+        {
+            "category": "Other",
+            "count": 5
+        },
+        {
+            "category": "Pets",
+            "count": 268
+        },
+        {
+            "category": "Professional Services",
+            "count": 32
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 45
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 16
+        },
+        {
+            "category": "Restaurants",
+            "count": 4352
+        },
+        {
+            "category": "Shopping",
+            "count": 1649
+        }
+    ],
+    "TX": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 0
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 1
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 2
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 0
+        },
+        {
+            "category": "Shopping",
+            "count": 1
+        }
+    ],
+    "UT": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 0
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 0
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 1
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 0
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ],
+
+    "VT": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 1
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 0
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 0
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ],
+    "WA": [
+        {
+            "category": "Active Life",
+            "count": 0
+        },
+        {
+            "category": "Arts & Entertainment",
+            "count": 0
+        },
+        {
+            "category": "Automotive",
+            "count": 1
+        },
+        {
+            "category": "Beauty & Spas",
+            "count": 1
+        },
+        {
+            "category": "Education",
+            "count": 0
+        },
+        {
+            "category": "Event Planning & Services",
+            "count": 0
+        },
+        {
+            "category": "Financial Services",
+            "count": 0
+        },
+        {
+            "category": "Food",
+            "count": 0
+        },
+        {
+            "category": "Health & Medical",
+            "count": 0
+        },
+        {
+            "category": "Home Services",
+            "count": 0
+        },
+        {
+            "category": "Hotels & Travel",
+            "count": 0
+        },
+        {
+            "category": "Local Flavor",
+            "count": 0
+        },
+        {
+            "category": "Local Services",
+            "count": 0
+        },
+        {
+            "category": "Mass Media",
+            "count": 0
+        },
+        {
+            "category": "Nightlife",
+            "count": 0
+        },
+        {
+            "category": "Other",
+            "count": 0
+        },
+        {
+            "category": "Pets",
+            "count": 0
+        },
+        {
+            "category": "Professional Services",
+            "count": 0
+        },
+        {
+            "category": "Public Services & Government",
+            "count": 0
+        },
+        {
+            "category": "Religious Organizations",
+            "count": 0
+        },
+        {
+            "category": "Restaurants",
+            "count": 0
+        },
+        {
+            "category": "Shopping",
+            "count": 0
+        }
+    ]
+}

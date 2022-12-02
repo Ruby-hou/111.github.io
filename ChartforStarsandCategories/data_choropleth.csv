@@ -1,0 +1,1617 @@
+id,county,state,cnt
+50001,Addison County,Vermont,0
+50003,Bennington County,Vermont,0
+50005,Caledonia County,Vermont,0
+50007,Chittenden County,Vermont,0
+50009,Essex County,Vermont,0
+50011,Franklin County,Vermont,0
+50013,Grand Isle County,Vermont,0
+50015,Lamoille County,Vermont,0
+50017,Orange County,Vermont,0
+50019,Orleans County,Vermont,0
+50021,Rutland County,Vermont,0
+50023,Washington County,Vermont,0
+50025,Windham County,Vermont,0
+50027,Windsor County,Vermont,0
+29001,Adair County,Missouri,0
+29003,Andrew County,Missouri,0
+29005,Atchison County,Missouri,0
+29007,Audrain County,Missouri,0
+29009,Barry County,Missouri,0
+29011,Barton County,Missouri,0
+29013,Bates County,Missouri,0
+29015,Benton County,Missouri,0
+29017,Bollinger County,Missouri,0
+29019,Boone County,Missouri,0
+29021,Buchanan County,Missouri,0
+29023,Butler County,Missouri,0
+29025,Caldwell County,Missouri,0
+29027,Callaway County,Missouri,0
+29029,Camden County,Missouri,0
+29031,Cape Girardeau County,Missouri,0
+29033,Carroll County,Missouri,0
+29035,Carter County,Missouri,0
+29037,Cass County,Missouri,0
+29039,Cedar County,Missouri,0
+29041,Chariton County,Missouri,0
+29043,Christian County,Missouri,0
+29045,Clark County,Missouri,0
+29047,Clay County,Missouri,0
+29049,Clinton County,Missouri,0
+29051,Cole County,Missouri,0
+29053,Cooper County,Missouri,0
+29055,Crawford County,Missouri,0
+29057,Dade County,Missouri,0
+29059,Dallas County,Missouri,0
+29061,Daviess County,Missouri,0
+29063,DeKalb County,Missouri,0
+29065,Dent County,Missouri,0
+29067,Douglas County,Missouri,0
+29069,Dunklin County,Missouri,0
+29071,Franklin County,Missouri,1
+29073,Gasconade County,Missouri,0
+29075,Gentry County,Missouri,0
+29077,Greene County,Missouri,0
+29079,Grundy County,Missouri,0
+29081,Harrison County,Missouri,0
+29083,Henry County,Missouri,0
+29085,Hickory County,Missouri,0
+29087,Holt County,Missouri,0
+29089,Howard County,Missouri,0
+29091,Howell County,Missouri,0
+29093,Iron County,Missouri,0
+29095,Jackson County,Missouri,0
+29097,Jasper County,Missouri,0
+29099,Jefferson County,Missouri,43
+29101,Johnson County,Missouri,0
+29103,Knox County,Missouri,0
+29105,Laclede County,Missouri,0
+29107,Lafayette County,Missouri,0
+29109,Lawrence County,Missouri,0
+29111,Lewis County,Missouri,0
+29113,Lincoln County,Missouri,0
+29115,Linn County,Missouri,0
+29117,Livingston County,Missouri,0
+29119,McDonald County,Missouri,0
+29121,Macon County,Missouri,0
+29123,Madison County,Missouri,0
+29125,Maries County,Missouri,0
+29127,Marion County,Missouri,0
+29129,Mercer County,Missouri,0
+29131,Miller County,Missouri,0
+29133,Mississippi County,Missouri,0
+29135,Moniteau County,Missouri,0
+29137,Monroe County,Missouri,0
+29139,Montgomery County,Missouri,0
+29141,Morgan County,Missouri,0
+29143,New Madrid County,Missouri,0
+29145,Newton County,Missouri,0
+29147,Nodaway County,Missouri,0
+29149,Oregon County,Missouri,0
+29151,Osage County,Missouri,0
+29153,Ozark County,Missouri,0
+29155,Pemiscot County,Missouri,0
+29157,Perry County,Missouri,0
+29159,Pettis County,Missouri,0
+29161,Phelps County,Missouri,0
+29163,Pike County,Missouri,0
+29165,Platte County,Missouri,0
+29167,Polk County,Missouri,0
+29169,Pulaski County,Missouri,0
+29171,Putnam County,Missouri,0
+29173,Ralls County,Missouri,0
+29175,Randolph County,Missouri,0
+29177,Ray County,Missouri,0
+29179,Reynolds County,Missouri,0
+29181,Ripley County,Missouri,0
+29183,St. Charles County,Missouri,16
+29185,St. Clair County,Missouri,0
+29186,Ste. Genevieve County,Missouri,0
+29187,St. Francois County,Missouri,0
+29189,St. Louis County,Missouri,398
+29195,Saline County,Missouri,0
+29197,Schuyler County,Missouri,0
+29199,Scotland County,Missouri,0
+29201,Scott County,Missouri,0
+29203,Shannon County,Missouri,0
+29205,Shelby County,Missouri,0
+29207,Stoddard County,Missouri,0
+29209,Stone County,Missouri,0
+29211,Sullivan County,Missouri,0
+29213,Taney County,Missouri,0
+29215,Texas County,Missouri,0
+29217,Vernon County,Missouri,0
+29219,Warren County,Missouri,0
+29221,Washington County,Missouri,0
+29223,Wayne County,Missouri,0
+29225,Webster County,Missouri,0
+29227,Worth County,Missouri,0
+29229,Wright County,Missouri,0
+29510,St. Louis city,Missouri,0
+06001,Alameda County,California,0
+06003,Alpine County,California,0
+06005,Amador County,California,0
+06007,Butte County,California,0
+06009,Calaveras County,California,0
+06011,Colusa County,California,0
+06013,Contra Costa County,California,0
+06015,Del Norte County,California,0
+06017,El Dorado County,California,1
+06019,Fresno County,California,0
+06021,Glenn County,California,0
+06023,Humboldt County,California,0
+06025,Imperial County,California,0
+06027,Inyo County,California,0
+06029,Kern County,California,0
+06031,Kings County,California,0
+06033,Lake County,California,0
+06035,Lassen County,California,0
+06037,Los Angeles County,California,2
+06039,Madera County,California,0
+06041,Marin County,California,0
+06043,Mariposa County,California,0
+06045,Mendocino County,California,0
+06047,Merced County,California,0
+06049,Modoc County,California,0
+06051,Mono County,California,0
+06053,Monterey County,California,1
+06055,Napa County,California,0
+06057,Nevada County,California,5
+06059,Orange County,California,2
+06061,Placer County,California,1
+06063,Plumas County,California,0
+06065,Riverside County,California,0
+06067,Sacramento County,California,0
+06069,San Benito County,California,0
+06071,San Bernardino County,California,0
+06073,San Diego County,California,0
+06075,San Francisco County,California,0
+06077,San Joaquin County,California,0
+06079,San Luis Obispo County,California,0
+06081,San Mateo County,California,0
+06083,Santa Barbara County,California,96
+06085,Santa Clara County,California,1
+06087,Santa Cruz County,California,0
+06089,Shasta County,California,0
+06091,Sierra County,California,0
+06093,Siskiyou County,California,0
+06095,Solano County,California,0
+06097,Sonoma County,California,0
+06099,Stanislaus County,California,0
+06101,Sutter County,California,1
+06103,Tehama County,California,0
+06105,Trinity County,California,0
+06107,Tulare County,California,0
+06109,Tuolumne County,California,0
+06111,Ventura County,California,2
+06113,Yolo County,California,0
+06115,Yuba County,California,0
+49001,Beaver County,Utah,0
+49003,Box Elder County,Utah,0
+49005,Cache County,Utah,0
+49007,Carbon County,Utah,0
+49009,Daggett County,Utah,0
+49011,Davis County,Utah,0
+49013,Duchesne County,Utah,0
+49015,Emery County,Utah,0
+49017,Garfield County,Utah,0
+49019,Grand County,Utah,0
+49021,Iron County,Utah,0
+49023,Juab County,Utah,0
+49025,Kane County,Utah,0
+49027,Millard County,Utah,0
+49029,Morgan County,Utah,0
+49031,Piute County,Utah,0
+49033,Rich County,Utah,0
+49035,Salt Lake County,Utah,0
+49037,San Juan County,Utah,0
+49039,Sanpete County,Utah,0
+49041,Sevier County,Utah,0
+49043,Summit County,Utah,0
+49045,Tooele County,Utah,0
+49047,Uintah County,Utah,0
+49049,Utah County,Utah,0
+49051,Wasatch County,Utah,0
+49053,Washington County,Utah,0
+49055,Wayne County,Utah,0
+49057,Weber County,Utah,0
+10001,Kent County,Delaware,2
+10003,New Castle County,Delaware,93
+10005,Sussex County,Delaware,0
+47001,Anderson County,Tennessee,0
+47003,Bedford County,Tennessee,0
+47005,Benton County,Tennessee,0
+47007,Bledsoe County,Tennessee,0
+47009,Blount County,Tennessee,0
+47011,Bradley County,Tennessee,0
+47013,Campbell County,Tennessee,0
+47015,Cannon County,Tennessee,0
+47017,Carroll County,Tennessee,0
+47019,Carter County,Tennessee,0
+47021,Cheatham County,Tennessee,28
+47023,Chester County,Tennessee,0
+47025,Claiborne County,Tennessee,0
+47027,Clay County,Tennessee,0
+47029,Cocke County,Tennessee,0
+47031,Coffee County,Tennessee,0
+47033,Crockett County,Tennessee,0
+47035,Cumberland County,Tennessee,0
+47037,Davidson County,Tennessee,27
+47039,Decatur County,Tennessee,0
+47041,DeKalb County,Tennessee,0
+47043,Dickson County,Tennessee,0
+47045,Dyer County,Tennessee,0
+47047,Fayette County,Tennessee,0
+47049,Fentress County,Tennessee,0
+47051,Franklin County,Tennessee,0
+47053,Gibson County,Tennessee,0
+47055,Giles County,Tennessee,0
+47057,Grainger County,Tennessee,0
+47059,Greene County,Tennessee,0
+47061,Grundy County,Tennessee,0
+47063,Hamblen County,Tennessee,0
+47065,Hamilton County,Tennessee,1
+47067,Hancock County,Tennessee,0
+47069,Hardeman County,Tennessee,0
+47071,Hardin County,Tennessee,0
+47073,Hawkins County,Tennessee,0
+47075,Haywood County,Tennessee,0
+47077,Henderson County,Tennessee,0
+47079,Henry County,Tennessee,0
+47081,Hickman County,Tennessee,0
+47083,Houston County,Tennessee,0
+47085,Humphreys County,Tennessee,0
+47087,Jackson County,Tennessee,0
+47089,Jefferson County,Tennessee,0
+47091,Johnson County,Tennessee,0
+47093,Knox County,Tennessee,1
+47095,Lake County,Tennessee,0
+47097,Lauderdale County,Tennessee,0
+47099,Lawrence County,Tennessee,0
+47101,Lewis County,Tennessee,0
+47103,Lincoln County,Tennessee,0
+47105,Loudon County,Tennessee,0
+47107,McMinn County,Tennessee,0
+47109,McNairy County,Tennessee,0
+47111,Macon County,Tennessee,0
+47113,Madison County,Tennessee,0
+47115,Marion County,Tennessee,0
+47117,Marshall County,Tennessee,0
+47119,Maury County,Tennessee,1
+47121,Meigs County,Tennessee,0
+47123,Monroe County,Tennessee,0
+47125,Montgomery County,Tennessee,1
+47127,Moore County,Tennessee,0
+47129,Morgan County,Tennessee,0
+47131,Obion County,Tennessee,0
+47133,Overton County,Tennessee,0
+47135,Perry County,Tennessee,0
+47137,Pickett County,Tennessee,0
+47139,Polk County,Tennessee,0
+47141,Putnam County,Tennessee,0
+47143,Rhea County,Tennessee,0
+47145,Roane County,Tennessee,0
+47147,Robertson County,Tennessee,25
+47149,Rutherford County,Tennessee,29
+47151,Scott County,Tennessee,0
+47153,Sequatchie County,Tennessee,0
+47155,Sevier County,Tennessee,0
+47157,Shelby County,Tennessee,0
+47159,Smith County,Tennessee,0
+47161,Stewart County,Tennessee,0
+47163,Sullivan County,Tennessee,0
+47165,Sumner County,Tennessee,46
+47167,Tipton County,Tennessee,0
+47169,Trousdale County,Tennessee,0
+47171,Unicoi County,Tennessee,0
+47173,Union County,Tennessee,0
+47175,Van Buren County,Tennessee,0
+47177,Warren County,Tennessee,0
+47179,Washington County,Tennessee,0
+47181,Wayne County,Tennessee,0
+47183,Weakley County,Tennessee,0
+47185,White County,Tennessee,0
+47187,Williamson County,Tennessee,54
+47189,Wilson County,Tennessee,24
+53001,Adams County,Washington,0
+53003,Asotin County,Washington,0
+53005,Benton County,Washington,0
+53007,Chelan County,Washington,0
+53009,Clallam County,Washington,0
+53011,Clark County,Washington,0
+53013,Columbia County,Washington,0
+53015,Cowlitz County,Washington,0
+53017,Douglas County,Washington,0
+53019,Ferry County,Washington,0
+53021,Franklin County,Washington,0
+53023,Garfield County,Washington,0
+53025,Grant County,Washington,0
+53027,Grays Harbor County,Washington,0
+53029,Island County,Washington,0
+53031,Jefferson County,Washington,0
+53033,King County,Washington,0
+53035,Kitsap County,Washington,0
+53037,Kittitas County,Washington,0
+53039,Klickitat County,Washington,0
+53041,Lewis County,Washington,0
+53043,Lincoln County,Washington,0
+53045,Mason County,Washington,0
+53047,Okanogan County,Washington,0
+53049,Pacific County,Washington,0
+53051,Pend Oreille County,Washington,0
+53053,Pierce County,Washington,0
+53055,San Juan County,Washington,0
+53057,Skagit County,Washington,0
+53059,Skamania County,Washington,0
+53061,Snohomish County,Washington,0
+53063,Spokane County,Washington,1
+53065,Stevens County,Washington,0
+53067,Thurston County,Washington,0
+53069,Wahkiakum County,Washington,0
+53071,Walla Walla County,Washington,1
+53073,Whatcom County,Washington,0
+53075,Whitman County,Washington,0
+53077,Yakima County,Washington,0
+16001,Ada County,Idaho,76
+16003,Adams County,Idaho,0
+16005,Bannock County,Idaho,0
+16007,Bear Lake County,Idaho,0
+16009,Benewah County,Idaho,0
+16011,Bingham County,Idaho,0
+16013,Blaine County,Idaho,0
+16015,Boise County,Idaho,1
+16017,Bonner County,Idaho,0
+16019,Bonneville County,Idaho,0
+16021,Boundary County,Idaho,0
+16023,Butte County,Idaho,0
+16025,Camas County,Idaho,0
+16027,Canyon County,Idaho,4
+16029,Caribou County,Idaho,0
+16031,Cassia County,Idaho,0
+16033,Clark County,Idaho,0
+16035,Clearwater County,Idaho,0
+16037,Custer County,Idaho,0
+16039,Elmore County,Idaho,0
+16041,Franklin County,Idaho,0
+16043,Fremont County,Idaho,0
+16045,Gem County,Idaho,0
+16047,Gooding County,Idaho,0
+16049,Idaho County,Idaho,0
+16051,Jefferson County,Idaho,0
+16053,Jerome County,Idaho,0
+16055,Kootenai County,Idaho,0
+16057,Latah County,Idaho,0
+16059,Lemhi County,Idaho,0
+16061,Lewis County,Idaho,0
+16063,Lincoln County,Idaho,0
+16065,Madison County,Idaho,0
+16067,Minidoka County,Idaho,0
+16069,Nez Perce County,Idaho,0
+16071,Oneida County,Idaho,0
+16073,Owyhee County,Idaho,0
+16075,Payette County,Idaho,0
+16077,Power County,Idaho,0
+16079,Shoshone County,Idaho,0
+16081,Teton County,Idaho,0
+16083,Twin Falls County,Idaho,0
+16085,Valley County,Idaho,0
+16087,Washington County,Idaho,0
+12001,Alachua County,Florida,0
+12003,Baker County,Florida,0
+12005,Bay County,Florida,0
+12007,Bradford County,Florida,0
+12009,Brevard County,Florida,0
+12011,Broward County,Florida,0
+12013,Calhoun County,Florida,0
+12015,Charlotte County,Florida,0
+12017,Citrus County,Florida,0
+12019,Clay County,Florida,0
+12021,Collier County,Florida,0
+12023,Columbia County,Florida,0
+12027,DeSoto County,Florida,0
+12029,Dixie County,Florida,0
+12031,Duval County,Florida,0
+12033,Escambia County,Florida,0
+12035,Flagler County,Florida,0
+12037,Franklin County,Florida,0
+12039,Gadsden County,Florida,0
+12041,Gilchrist County,Florida,0
+12043,Glades County,Florida,0
+12045,Gulf County,Florida,0
+12047,Hamilton County,Florida,0
+12049,Hardee County,Florida,0
+12051,Hendry County,Florida,0
+12053,Hernando County,Florida,24
+12055,Highlands County,Florida,0
+12057,Hillsborough County,Florida,239
+12059,Holmes County,Florida,0
+12061,Indian River County,Florida,0
+12063,Jackson County,Florida,0
+12065,Jefferson County,Florida,0
+12067,Lafayette County,Florida,0
+12069,Lake County,Florida,0
+12071,Lee County,Florida,0
+12073,Leon County,Florida,0
+12075,Levy County,Florida,0
+12077,Liberty County,Florida,0
+12079,Madison County,Florida,0
+12081,Manatee County,Florida,11
+12083,Marion County,Florida,1
+12085,Martin County,Florida,0
+12086,Miami-Dade County,Florida,0
+12087,Monroe County,Florida,1
+12089,Nassau County,Florida,0
+12091,Okaloosa County,Florida,0
+12093,Okeechobee County,Florida,0
+12095,Orange County,Florida,1
+12097,Osceola County,Florida,0
+12099,Palm Beach County,Florida,0
+12101,Pasco County,Florida,157
+12103,Pinellas County,Florida,321
+12105,Polk County,Florida,3
+12107,Putnam County,Florida,0
+12109,St. Johns County,Florida,0
+12111,St. Lucie County,Florida,0
+12113,Santa Rosa County,Florida,0
+12115,Sarasota County,Florida,1
+12117,Seminole County,Florida,0
+12119,Sumter County,Florida,0
+12121,Suwannee County,Florida,0
+12123,Taylor County,Florida,0
+12125,Union County,Florida,0
+12127,Volusia County,Florida,0
+12129,Wakulla County,Florida,0
+12131,Walton County,Florida,0
+12133,Washington County,Florida,0
+51001,Accomack County,Virginia,0
+51003,Albemarle County,Virginia,0
+51005,Alleghany County,Virginia,0
+51007,Amelia County,Virginia,0
+51009,Amherst County,Virginia,0
+51011,Appomattox County,Virginia,0
+51013,Arlington County,Virginia,0
+51015,Augusta County,Virginia,0
+51017,Bath County,Virginia,0
+51019,Bedford County,Virginia,0
+51021,Bland County,Virginia,0
+51023,Botetourt County,Virginia,0
+51025,Brunswick County,Virginia,0
+51027,Buchanan County,Virginia,0
+51029,Buckingham County,Virginia,0
+51031,Campbell County,Virginia,0
+51033,Caroline County,Virginia,0
+51035,Carroll County,Virginia,0
+51036,Charles City County,Virginia,0
+51037,Charlotte County,Virginia,0
+51041,Chesterfield County,Virginia,0
+51043,Clarke County,Virginia,0
+51045,Craig County,Virginia,0
+51047,Culpeper County,Virginia,0
+51049,Cumberland County,Virginia,0
+51051,Dickenson County,Virginia,0
+51053,Dinwiddie County,Virginia,0
+51057,Essex County,Virginia,0
+51059,Fairfax County,Virginia,0
+51061,Fauquier County,Virginia,0
+51063,Floyd County,Virginia,0
+51065,Fluvanna County,Virginia,0
+51067,Franklin County,Virginia,0
+51069,Frederick County,Virginia,0
+51071,Giles County,Virginia,0
+51073,Gloucester County,Virginia,0
+51075,Goochland County,Virginia,0
+51077,Grayson County,Virginia,0
+51079,Greene County,Virginia,0
+51081,Greensville County,Virginia,0
+51083,Halifax County,Virginia,0
+51085,Hanover County,Virginia,0
+51087,Henrico County,Virginia,0
+51089,Henry County,Virginia,0
+51091,Highland County,Virginia,0
+51093,Isle of Wight County,Virginia,0
+51095,James City County,Virginia,0
+51097,King and Queen County,Virginia,0
+51099,King George County,Virginia,0
+51101,King William County,Virginia,0
+51103,Lancaster County,Virginia,0
+51105,Lee County,Virginia,0
+51107,Loudoun County,Virginia,0
+51109,Louisa County,Virginia,0
+51111,Lunenburg County,Virginia,0
+51113,Madison County,Virginia,0
+51115,Mathews County,Virginia,0
+51117,Mecklenburg County,Virginia,0
+51119,Middlesex County,Virginia,0
+51121,Montgomery County,Virginia,0
+51125,Nelson County,Virginia,0
+51127,New Kent County,Virginia,0
+51131,Northampton County,Virginia,0
+51133,Northumberland County,Virginia,0
+51135,Nottoway County,Virginia,0
+51137,Orange County,Virginia,0
+51139,Page County,Virginia,0
+51141,Patrick County,Virginia,0
+51143,Pittsylvania County,Virginia,0
+51145,Powhatan County,Virginia,0
+51147,Prince Edward County,Virginia,0
+51149,Prince George County,Virginia,0
+51153,Prince William County,Virginia,0
+51155,Pulaski County,Virginia,0
+51157,Rappahannock County,Virginia,0
+51159,Richmond County,Virginia,0
+51161,Roanoke County,Virginia,0
+51163,Rockbridge County,Virginia,0
+51165,Rockingham County,Virginia,0
+51167,Russell County,Virginia,0
+51169,Scott County,Virginia,0
+51171,Shenandoah County,Virginia,0
+51173,Smyth County,Virginia,0
+51175,Southampton County,Virginia,0
+51177,Spotsylvania County,Virginia,0
+51179,Stafford County,Virginia,0
+51181,Surry County,Virginia,0
+51183,Sussex County,Virginia,0
+51185,Tazewell County,Virginia,0
+51187,Warren County,Virginia,0
+51191,Washington County,Virginia,0
+51193,Westmoreland County,Virginia,0
+51195,Wise County,Virginia,0
+51197,Wythe County,Virginia,0
+51199,York County,Virginia,0
+51510,Alexandria city,Virginia,0
+51520,Bristol city,Virginia,0
+51530,Buena Vista city,Virginia,0
+51540,Charlottesville city,Virginia,0
+51550,Chesapeake city,Virginia,0
+51570,Colonial Heights city,Virginia,0
+51580,Covington city,Virginia,0
+51590,Danville city,Virginia,0
+51595,Emporia city,Virginia,0
+51600,Fairfax city,Virginia,0
+51610,Falls Church city,Virginia,0
+51620,Franklin city,Virginia,0
+51630,Fredericksburg city,Virginia,0
+51640,Galax city,Virginia,0
+51650,Hampton city,Virginia,0
+51660,Harrisonburg city,Virginia,0
+51670,Hopewell city,Virginia,0
+51678,Lexington city,Virginia,0
+51680,Lynchburg city,Virginia,0
+51683,Manassas city,Virginia,0
+51685,Manassas Park city,Virginia,0
+51690,Martinsville city,Virginia,0
+51700,Newport News city,Virginia,0
+51710,Norfolk city,Virginia,0
+51720,Norton city,Virginia,0
+51730,Petersburg city,Virginia,0
+51735,Poquoson city,Virginia,0
+51740,Portsmouth city,Virginia,0
+51750,Radford city,Virginia,0
+51760,Richmond city,Virginia,0
+51770,Roanoke city,Virginia,0
+51775,Salem city,Virginia,0
+51790,Staunton city,Virginia,0
+51800,Suffolk city,Virginia,0
+51810,Virginia Beach city,Virginia,0
+51820,Waynesboro city,Virginia,0
+51830,Williamsburg city,Virginia,0
+51840,Winchester city,Virginia,0
+4001,Apache County,Arizona,0
+4003,Cochise County,Arizona,0
+4005,Coconino County,Arizona,0
+4007,Gila County,Arizona,0
+4009,Graham County,Arizona,0
+4011,Greenlee County,Arizona,0
+4012,La Paz County,Arizona,0
+4013,Maricopa County,Arizona,0
+4015,Mohave County,Arizona,0
+4017,Navajo County,Arizona,0
+4019,Pima County,Arizona,108
+4021,Pinal County,Arizona,2
+4023,Santa Cruz County,Arizona,0
+4025,Yavapai County,Arizona,0
+4027,Yuma County,Arizona,0
+34001,Atlantic County,New Jersey,7
+34003,Bergen County,New Jersey,0
+34005,Burlington County,New Jersey,55
+34007,Camden County,New Jersey,268
+34009,Cape May County,New Jersey,1
+34011,Cumberland County,New Jersey,1
+34013,Essex County,New Jersey,0
+34015,Gloucester County,New Jersey,165
+34017,Hudson County,New Jersey,0
+34019,Hunterdon County,New Jersey,14
+34021,Mercer County,New Jersey,36
+34023,Middlesex County,New Jersey,0
+34025,Monmouth County,New Jersey,0
+34027,Morris County,New Jersey,1
+34029,Ocean County,New Jersey,0
+34031,Passaic County,New Jersey,0
+34033,Salem County,New Jersey,27
+34035,Somerset County,New Jersey,0
+34037,Sussex County,New Jersey,2
+34039,Union County,New Jersey,1
+34041,Warren County,New Jersey,1
+15001,Hawaii County,Hawaii,0
+15003,Honolulu County,Hawaii,0
+15007,Kauai County,Hawaii,0
+15009,Maui County,Hawaii,0
+22001,Acadia Parish,Louisiana,0
+22003,Allen Parish,Louisiana,0
+22005,Ascension Parish,Louisiana,0
+22007,Assumption Parish,Louisiana,0
+22009,Avoyelles Parish,Louisiana,0
+22011,Beauregard Parish,Louisiana,0
+22013,Bienville Parish,Louisiana,0
+22015,Bossier Parish,Louisiana,0
+22017,Caddo Parish,Louisiana,0
+22019,Calcasieu Parish,Louisiana,0
+22021,Caldwell Parish,Louisiana,0
+22023,Cameron Parish,Louisiana,0
+22025,Catahoula Parish,Louisiana,0
+22027,Claiborne Parish,Louisiana,0
+22029,Concordia Parish,Louisiana,0
+22031,De Soto Parish,Louisiana,0
+22033,East Baton Rouge Parish,Louisiana,0
+22035,East Carroll Parish,Louisiana,0
+22037,East Feliciana Parish,Louisiana,0
+22039,Evangeline Parish,Louisiana,0
+22041,Franklin Parish,Louisiana,0
+22043,Grant Parish,Louisiana,0
+22045,Iberia Parish,Louisiana,0
+22047,Iberville Parish,Louisiana,0
+22049,Jackson Parish,Louisiana,0
+22051,Jefferson Parish,Louisiana,0
+22053,Jefferson Davis Parish,Louisiana,0
+22055,Lafayette Parish,Louisiana,0
+22057,Lafourche Parish,Louisiana,0
+22059,La Salle Parish,Louisiana,0
+22061,Lincoln Parish,Louisiana,0
+22063,Livingston Parish,Louisiana,0
+22065,Madison Parish,Louisiana,0
+22067,Morehouse Parish,Louisiana,0
+22069,Natchitoches Parish,Louisiana,0
+22071,Orleans Parish,Louisiana,0
+22073,Ouachita Parish,Louisiana,0
+22075,Plaquemines Parish,Louisiana,0
+22077,Pointe Coupee Parish,Louisiana,0
+22079,Rapides Parish,Louisiana,0
+22081,Red River Parish,Louisiana,0
+22083,Richland Parish,Louisiana,0
+22085,Sabine Parish,Louisiana,0
+22087,St. Bernard Parish,Louisiana,0
+22089,St. Charles Parish,Louisiana,0
+22091,St. Helena Parish,Louisiana,0
+22093,St. James Parish,Louisiana,0
+22095,St. John the Baptist Parish,Louisiana,0
+22097,St. Landry Parish,Louisiana,0
+22099,St. Martin Parish,Louisiana,0
+22101,St. Mary Parish,Louisiana,0
+22103,St. Tammany Parish,Louisiana,0
+22105,Tangipahoa Parish,Louisiana,0
+22107,Tensas Parish,Louisiana,0
+22109,Terrebonne Parish,Louisiana,0
+22111,Union Parish,Louisiana,0
+22113,Vermilion Parish,Louisiana,0
+22115,Vernon Parish,Louisiana,0
+22117,Washington Parish,Louisiana,0
+22119,Webster Parish,Louisiana,0
+22121,West Baton Rouge Parish,Louisiana,0
+22123,West Carroll Parish,Louisiana,0
+22125,West Feliciana Parish,Louisiana,0
+22127,Winn Parish,Louisiana,0
+18001,Adams County,Indiana,0
+18003,Allen County,Indiana,0
+18005,Bartholomew County,Indiana,0
+18007,Benton County,Indiana,0
+18009,Blackford County,Indiana,0
+18011,Boone County,Indiana,28
+18013,Brown County,Indiana,2
+18015,Carroll County,Indiana,0
+18017,Cass County,Indiana,0
+18019,Clark County,Indiana,0
+18021,Clay County,Indiana,0
+18023,Clinton County,Indiana,0
+18025,Crawford County,Indiana,0
+18027,Daviess County,Indiana,0
+18029,Dearborn County,Indiana,0
+18031,Decatur County,Indiana,0
+18033,DeKalb County,Indiana,0
+18035,Delaware County,Indiana,0
+18037,Dubois County,Indiana,0
+18039,Elkhart County,Indiana,0
+18041,Fayette County,Indiana,0
+18043,Floyd County,Indiana,0
+18045,Fountain County,Indiana,0
+18047,Franklin County,Indiana,0
+18049,Fulton County,Indiana,0
+18051,Gibson County,Indiana,0
+18053,Grant County,Indiana,0
+18055,Greene County,Indiana,0
+18057,Hamilton County,Indiana,48
+18059,Hancock County,Indiana,22
+18061,Harrison County,Indiana,0
+18063,Hendricks County,Indiana,54
+18065,Henry County,Indiana,0
+18067,Howard County,Indiana,0
+18069,Huntington County,Indiana,0
+18071,Jackson County,Indiana,0
+18073,Jasper County,Indiana,0
+18075,Jay County,Indiana,0
+18077,Jefferson County,Indiana,0
+18079,Jennings County,Indiana,0
+18081,Johnson County,Indiana,33
+18083,Knox County,Indiana,0
+18085,Kosciusko County,Indiana,0
+18087,LaGrange County,Indiana,0
+18089,Lake County,Indiana,0
+18091,LaPorte County,Indiana,0
+18093,Lawrence County,Indiana,0
+18095,Madison County,Indiana,0
+18097,Marion County,Indiana,57
+18099,Marshall County,Indiana,0
+18101,Martin County,Indiana,0
+18103,Miami County,Indiana,0
+18105,Monroe County,Indiana,0
+18107,Montgomery County,Indiana,0
+18109,Morgan County,Indiana,13
+18111,Newton County,Indiana,0
+18113,Noble County,Indiana,0
+18115,Ohio County,Indiana,0
+18117,Orange County,Indiana,0
+18119,Owen County,Indiana,0
+18121,Parke County,Indiana,0
+18123,Perry County,Indiana,0
+18125,Pike County,Indiana,0
+18127,Porter County,Indiana,0
+18129,Posey County,Indiana,0
+18131,Pulaski County,Indiana,0
+18133,Putnam County,Indiana,0
+18135,Randolph County,Indiana,0
+18137,Ripley County,Indiana,0
+18139,Rush County,Indiana,0
+18141,St. Joseph County,Indiana,0
+18143,Scott County,Indiana,0
+18145,Shelby County,Indiana,1
+18147,Spencer County,Indiana,0
+18149,Starke County,Indiana,0
+18151,Steuben County,Indiana,0
+18153,Sullivan County,Indiana,0
+18155,Switzerland County,Indiana,0
+18157,Tippecanoe County,Indiana,0
+18159,Tipton County,Indiana,0
+18161,Union County,Indiana,0
+18163,Vanderburgh County,Indiana,0
+18165,Vermillion County,Indiana,0
+18167,Vigo County,Indiana,0
+18169,Wabash County,Indiana,0
+18171,Warren County,Indiana,0
+18173,Warrick County,Indiana,0
+18175,Washington County,Indiana,0
+18177,Wayne County,Indiana,0
+18179,Wells County,Indiana,0
+18181,White County,Indiana,0
+18183,Whitley County,Indiana,0
+30001,Beaverhead County,Montana,0
+30003,Big Horn County,Montana,0
+30005,Blaine County,Montana,0
+30007,Broadwater County,Montana,0
+30009,Carbon County,Montana,0
+30011,Carter County,Montana,0
+30013,Cascade County,Montana,0
+30015,Chouteau County,Montana,0
+30017,Custer County,Montana,0
+30019,Daniels County,Montana,0
+30021,Dawson County,Montana,0
+30023,Deer Lodge County,Montana,0
+30025,Fallon County,Montana,0
+30027,Fergus County,Montana,0
+30029,Flathead County,Montana,1
+30031,Gallatin County,Montana,0
+30033,Garfield County,Montana,0
+30035,Glacier County,Montana,0
+30037,Golden Valley County,Montana,0
+30039,Granite County,Montana,0
+30041,Hill County,Montana,0
+30043,Jefferson County,Montana,0
+30045,Judith Basin County,Montana,0
+30047,Lake County,Montana,0
+30049,Lewis and Clark County,Montana,0
+30051,Liberty County,Montana,0
+30053,Lincoln County,Montana,0
+30055,McCone County,Montana,0
+30057,Madison County,Montana,0
+30059,Meagher County,Montana,0
+30061,Mineral County,Montana,0
+30063,Missoula County,Montana,0
+30065,Musselshell County,Montana,0
+30067,Park County,Montana,0
+30069,Petroleum County,Montana,0
+30071,Phillips County,Montana,0
+30073,Pondera County,Montana,0
+30075,Powder River County,Montana,0
+30077,Powell County,Montana,0
+30079,Prairie County,Montana,0
+30081,Ravalli County,Montana,0
+30083,Richland County,Montana,0
+30085,Roosevelt County,Montana,0
+30087,Rosebud County,Montana,0
+30089,Sanders County,Montana,0
+30091,Sheridan County,Montana,0
+30093,Silver Bow County,Montana,0
+30095,Stillwater County,Montana,0
+30097,Sweet Grass County,Montana,0
+30099,Teton County,Montana,0
+30101,Toole County,Montana,0
+30103,Treasure County,Montana,0
+30105,Valley County,Montana,0
+30107,Wheatland County,Montana,0
+30109,Wibaux County,Montana,0
+30111,Yellowstone County,Montana,0
+46003,Aurora County,South Dakota,0
+46005,Beadle County,South Dakota,0
+46007,Bennett County,South Dakota,0
+46009,Bon Homme County,South Dakota,0
+46011,Brookings County,South Dakota,0
+46013,Brown County,South Dakota,0
+46015,Brule County,South Dakota,0
+46017,Buffalo County,South Dakota,0
+46019,Butte County,South Dakota,0
+46021,Campbell County,South Dakota,0
+46023,Charles Mix County,South Dakota,0
+46025,Clark County,South Dakota,0
+46027,Clay County,South Dakota,0
+46029,Codington County,South Dakota,0
+46031,Corson County,South Dakota,0
+46033,Custer County,South Dakota,0
+46035,Davison County,South Dakota,0
+46037,Day County,South Dakota,0
+46039,Deuel County,South Dakota,0
+46041,Dewey County,South Dakota,0
+46043,Douglas County,South Dakota,0
+46045,Edmunds County,South Dakota,0
+46047,Fall River County,South Dakota,0
+46049,Faulk County,South Dakota,0
+46051,Grant County,South Dakota,0
+46053,Gregory County,South Dakota,0
+46055,Haakon County,South Dakota,0
+46057,Hamlin County,South Dakota,0
+46059,Hand County,South Dakota,0
+46061,Hanson County,South Dakota,0
+46063,Harding County,South Dakota,0
+46065,Hughes County,South Dakota,0
+46067,Hutchinson County,South Dakota,0
+46069,Hyde County,South Dakota,0
+46071,Jackson County,South Dakota,0
+46073,Jerauld County,South Dakota,0
+46075,Jones County,South Dakota,0
+46077,Kingsbury County,South Dakota,0
+46079,Lake County,South Dakota,0
+46081,Lawrence County,South Dakota,0
+46083,Lincoln County,South Dakota,0
+46085,Lyman County,South Dakota,0
+46087,McCook County,South Dakota,0
+46089,McPherson County,South Dakota,0
+46091,Marshall County,South Dakota,0
+46093,Meade County,South Dakota,0
+46095,Mellette County,South Dakota,0
+46097,Miner County,South Dakota,0
+46099,Minnehaha County,South Dakota,0
+46101,Moody County,South Dakota,0
+46102,Oglala Lakota County,South Dakota,0
+46103,Pennington County,South Dakota,0
+46105,Perkins County,South Dakota,0
+46107,Potter County,South Dakota,0
+46109,Roberts County,South Dakota,0
+46111,Sanborn County,South Dakota,0
+46115,Spink County,South Dakota,0
+46117,Stanley County,South Dakota,0
+46119,Sully County,South Dakota,0
+46121,Todd County,South Dakota,0
+46123,Tripp County,South Dakota,0
+46125,Turner County,South Dakota,0
+46127,Union County,South Dakota,0
+46129,Walworth County,South Dakota,0
+46135,Yankton County,South Dakota,0
+46137,Ziebach County,South Dakota,0
+32001,Churchill County,Nevada,0
+32003,Clark County,Nevada,0
+32005,Douglas County,Nevada,0
+32007,Elko County,Nevada,0
+32009,Esmeralda County,Nevada,0
+32011,Eureka County,Nevada,0
+32013,Humboldt County,Nevada,0
+32015,Lander County,Nevada,0
+32017,Lincoln County,Nevada,0
+32019,Lyon County,Nevada,1
+32021,Mineral County,Nevada,0
+32023,Nye County,Nevada,0
+32027,Pershing County,Nevada,0
+32029,Storey County,Nevada,8
+32031,Washoe County,Nevada,76
+32033,White Pine County,Nevada,0
+32510,Carson City,Nevada,0
+08001,Adams County,Colorado,0
+08003,Alamosa County,Colorado,0
+08005,Arapahoe County,Colorado,0
+08007,Archuleta County,Colorado,0
+08009,Baca County,Colorado,0
+08011,Bent County,Colorado,0
+08013,Boulder County,Colorado,0
+08014,Broomfield County,Colorado,0
+08015,Chaffee County,Colorado,0
+08017,Cheyenne County,Colorado,0
+08019,Clear Creek County,Colorado,0
+08021,Conejos County,Colorado,0
+08023,Costilla County,Colorado,0
+08025,Crowley County,Colorado,0
+08027,Custer County,Colorado,0
+08029,Delta County,Colorado,0
+08031,Denver County,Colorado,1
+08033,Dolores County,Colorado,0
+08035,Douglas County,Colorado,0
+08037,Eagle County,Colorado,1
+08039,Elbert County,Colorado,0
+08041,El Paso County,Colorado,0
+08043,Fremont County,Colorado,0
+08045,Garfield County,Colorado,0
+08047,Gilpin County,Colorado,0
+08049,Grand County,Colorado,0
+08051,Gunnison County,Colorado,0
+08053,Hinsdale County,Colorado,0
+08055,Huerfano County,Colorado,0
+08057,Jackson County,Colorado,0
+08059,Jefferson County,Colorado,0
+08061,Kiowa County,Colorado,0
+08063,Kit Carson County,Colorado,0
+08065,Lake County,Colorado,0
+08067,La Plata County,Colorado,0
+08069,Larimer County,Colorado,0
+08071,Las Animas County,Colorado,0
+08073,Lincoln County,Colorado,0
+08075,Logan County,Colorado,0
+08077,Mesa County,Colorado,0
+08079,Mineral County,Colorado,0
+08081,Moffat County,Colorado,0
+08083,Montezuma County,Colorado,0
+08085,Montrose County,Colorado,0
+08087,Morgan County,Colorado,0
+08089,Otero County,Colorado,0
+08091,Ouray County,Colorado,0
+08093,Park County,Colorado,0
+08095,Phillips County,Colorado,0
+08097,Pitkin County,Colorado,0
+08099,Prowers County,Colorado,0
+08101,Pueblo County,Colorado,0
+08103,Rio Blanco County,Colorado,0
+08105,Rio Grande County,Colorado,0
+08107,Routt County,Colorado,0
+08109,Saguache County,Colorado,0
+08111,San Juan County,Colorado,0
+08113,San Miguel County,Colorado,0
+08115,Sedgwick County,Colorado,0
+08117,Summit County,Colorado,0
+08119,Teller County,Colorado,0
+08121,Washington County,Colorado,0
+08123,Weld County,Colorado,0
+08125,Yuma County,Colorado,0
+26001,Alcona County,Michigan,0
+26003,Alger County,Michigan,0
+26005,Allegan County,Michigan,0
+26007,Alpena County,Michigan,0
+26009,Antrim County,Michigan,0
+26011,Arenac County,Michigan,0
+26013,Baraga County,Michigan,0
+26015,Barry County,Michigan,0
+26017,Bay County,Michigan,0
+26019,Benzie County,Michigan,0
+26021,Berrien County,Michigan,0
+26023,Branch County,Michigan,0
+26025,Calhoun County,Michigan,0
+26027,Cass County,Michigan,0
+26029,Charlevoix County,Michigan,0
+26031,Cheboygan County,Michigan,0
+26033,Chippewa County,Michigan,0
+26035,Clare County,Michigan,0
+26037,Clinton County,Michigan,0
+26039,Crawford County,Michigan,0
+26041,Delta County,Michigan,0
+26043,Dickinson County,Michigan,0
+26045,Eaton County,Michigan,0
+26047,Emmet County,Michigan,0
+26049,Genesee County,Michigan,0
+26051,Gladwin County,Michigan,0
+26053,Gogebic County,Michigan,0
+26055,Grand Traverse County,Michigan,0
+26057,Gratiot County,Michigan,0
+26059,Hillsdale County,Michigan,0
+26061,Houghton County,Michigan,0
+26063,Huron County,Michigan,0
+26065,Ingham County,Michigan,0
+26067,Ionia County,Michigan,0
+26069,Iosco County,Michigan,0
+26071,Iron County,Michigan,0
+26073,Isabella County,Michigan,0
+26075,Jackson County,Michigan,0
+26077,Kalamazoo County,Michigan,0
+26079,Kalkaska County,Michigan,0
+26081,Kent County,Michigan,0
+26083,Keweenaw County,Michigan,0
+26085,Lake County,Michigan,0
+26087,Lapeer County,Michigan,0
+26089,Leelanau County,Michigan,0
+26091,Lenawee County,Michigan,0
+26093,Livingston County,Michigan,0
+26095,Luce County,Michigan,0
+26097,Mackinac County,Michigan,0
+26099,Macomb County,Michigan,1
+26101,Manistee County,Michigan,0
+26103,Marquette County,Michigan,0
+26105,Mason County,Michigan,0
+26107,Mecosta County,Michigan,0
+26109,Menominee County,Michigan,0
+26111,Midland County,Michigan,0
+26113,Missaukee County,Michigan,0
+26115,Monroe County,Michigan,0
+26117,Montcalm County,Michigan,0
+26119,Montmorency County,Michigan,0
+26121,Muskegon County,Michigan,0
+26123,Newaygo County,Michigan,0
+26125,Oakland County,Michigan,0
+26127,Oceana County,Michigan,0
+26129,Ogemaw County,Michigan,0
+26131,Ontonagon County,Michigan,0
+26133,Osceola County,Michigan,0
+26135,Oscoda County,Michigan,0
+26137,Otsego County,Michigan,0
+26139,Ottawa County,Michigan,0
+26141,Presque Isle County,Michigan,0
+26143,Roscommon County,Michigan,0
+26145,Saginaw County,Michigan,0
+26147,St. Clair County,Michigan,0
+26149,St. Joseph County,Michigan,0
+26151,Sanilac County,Michigan,0
+26153,Schoolcraft County,Michigan,0
+26155,Shiawassee County,Michigan,0
+26157,Tuscola County,Michigan,0
+26159,Van Buren County,Michigan,0
+26161,Washtenaw County,Michigan,0
+26163,Wayne County,Michigan,0
+26165,Wexford County,Michigan,0
+37001,Alamance County,North Carolina,0
+37003,Alexander County,North Carolina,0
+37005,Alleghany County,North Carolina,0
+37007,Anson County,North Carolina,0
+37009,Ashe County,North Carolina,0
+37011,Avery County,North Carolina,0
+37013,Beaufort County,North Carolina,0
+37015,Bertie County,North Carolina,0
+37017,Bladen County,North Carolina,0
+37019,Brunswick County,North Carolina,0
+37021,Buncombe County,North Carolina,0
+37023,Burke County,North Carolina,0
+37025,Cabarrus County,North Carolina,0
+37027,Caldwell County,North Carolina,0
+37029,Camden County,North Carolina,0
+37031,Carteret County,North Carolina,0
+37033,Caswell County,North Carolina,0
+37035,Catawba County,North Carolina,0
+37037,Chatham County,North Carolina,0
+37039,Cherokee County,North Carolina,0
+37041,Chowan County,North Carolina,0
+37043,Clay County,North Carolina,0
+37045,Cleveland County,North Carolina,0
+37047,Columbus County,North Carolina,0
+37049,Craven County,North Carolina,0
+37051,Cumberland County,North Carolina,0
+37053,Currituck County,North Carolina,0
+37055,Dare County,North Carolina,0
+37057,Davidson County,North Carolina,0
+37059,Davie County,North Carolina,0
+37061,Duplin County,North Carolina,0
+37063,Durham County,North Carolina,0
+37065,Edgecombe County,North Carolina,0
+37067,Forsyth County,North Carolina,0
+37069,Franklin County,North Carolina,0
+37071,Gaston County,North Carolina,0
+37073,Gates County,North Carolina,0
+37075,Graham County,North Carolina,0
+37077,Granville County,North Carolina,0
+37079,Greene County,North Carolina,0
+37081,Guilford County,North Carolina,0
+37083,Halifax County,North Carolina,0
+37085,Harnett County,North Carolina,0
+37087,Haywood County,North Carolina,0
+37089,Henderson County,North Carolina,0
+37091,Hertford County,North Carolina,0
+37093,Hoke County,North Carolina,0
+37095,Hyde County,North Carolina,0
+37097,Iredell County,North Carolina,0
+37099,Jackson County,North Carolina,0
+37101,Johnston County,North Carolina,0
+37103,Jones County,North Carolina,0
+37105,Lee County,North Carolina,0
+37107,Lenoir County,North Carolina,0
+37109,Lincoln County,North Carolina,0
+37111,McDowell County,North Carolina,0
+37113,Macon County,North Carolina,0
+37115,Madison County,North Carolina,0
+37117,Martin County,North Carolina,0
+37119,Mecklenburg County,North Carolina,0
+37121,Mitchell County,North Carolina,0
+37123,Montgomery County,North Carolina,0
+37125,Moore County,North Carolina,0
+37127,Nash County,North Carolina,0
+37129,New Hanover County,North Carolina,0
+37131,Northampton County,North Carolina,0
+37133,Onslow County,North Carolina,0
+37135,Orange County,North Carolina,0
+37137,Pamlico County,North Carolina,0
+37139,Pasquotank County,North Carolina,0
+37141,Pender County,North Carolina,0
+37143,Perquimans County,North Carolina,0
+37145,Person County,North Carolina,0
+37147,Pitt County,North Carolina,0
+37149,Polk County,North Carolina,0
+37151,Randolph County,North Carolina,0
+37153,Richmond County,North Carolina,0
+37155,Robeson County,North Carolina,0
+37157,Rockingham County,North Carolina,0
+37159,Rowan County,North Carolina,0
+37161,Rutherford County,North Carolina,0
+37163,Sampson County,North Carolina,0
+37165,Scotland County,North Carolina,0
+37167,Stanly County,North Carolina,0
+37169,Stokes County,North Carolina,0
+37171,Surry County,North Carolina,0
+37173,Swain County,North Carolina,0
+37175,Transylvania County,North Carolina,0
+37177,Tyrrell County,North Carolina,0
+37179,Union County,North Carolina,0
+37181,Vance County,North Carolina,0
+37183,Wake County,North Carolina,0
+37185,Warren County,North Carolina,0
+37187,Washington County,North Carolina,0
+37189,Watauga County,North Carolina,1
+37191,Wayne County,North Carolina,0
+37193,Wilkes County,North Carolina,0
+37195,Wilson County,North Carolina,0
+37197,Yadkin County,North Carolina,0
+37199,Yancey County,North Carolina,0
+48001,Anderson County,Texas,0
+48003,Andrews County,Texas,0
+48005,Angelina County,Texas,0
+48007,Aransas County,Texas,0
+48009,Archer County,Texas,0
+48011,Armstrong County,Texas,0
+48013,Atascosa County,Texas,0
+48015,Austin County,Texas,0
+48017,Bailey County,Texas,0
+48019,Bandera County,Texas,0
+48021,Bastrop County,Texas,0
+48023,Baylor County,Texas,0
+48025,Bee County,Texas,0
+48027,Bell County,Texas,0
+48029,Bexar County,Texas,0
+48031,Blanco County,Texas,0
+48033,Borden County,Texas,0
+48035,Bosque County,Texas,0
+48037,Bowie County,Texas,0
+48039,Brazoria County,Texas,0
+48041,Brazos County,Texas,0
+48043,Brewster County,Texas,0
+48045,Briscoe County,Texas,0
+48047,Brooks County,Texas,0
+48049,Brown County,Texas,0
+48051,Burleson County,Texas,0
+48053,Burnet County,Texas,0
+48055,Caldwell County,Texas,0
+48057,Calhoun County,Texas,0
+48059,Callahan County,Texas,0
+48061,Cameron County,Texas,0
+48063,Camp County,Texas,0
+48065,Carson County,Texas,0
+48067,Cass County,Texas,0
+48069,Castro County,Texas,0
+48071,Chambers County,Texas,0
+48073,Cherokee County,Texas,0
+48075,Childress County,Texas,0
+48077,Clay County,Texas,0
+48079,Cochran County,Texas,0
+48081,Coke County,Texas,0
+48083,Coleman County,Texas,0
+48085,Collin County,Texas,0
+48087,Collingsworth County,Texas,0
+48089,Colorado County,Texas,0
+48091,Comal County,Texas,0
+48093,Comanche County,Texas,0
+48095,Concho County,Texas,0
+48097,Cooke County,Texas,0
+48099,Coryell County,Texas,0
+48101,Cottle County,Texas,0
+48103,Crane County,Texas,0
+48105,Crockett County,Texas,0
+48107,Crosby County,Texas,0
+48109,Culberson County,Texas,0
+48111,Dallam County,Texas,0
+48113,Dallas County,Texas,0
+48115,Dawson County,Texas,0
+48117,Deaf Smith County,Texas,0
+48119,Delta County,Texas,0
+48121,Denton County,Texas,0
+48123,DeWitt County,Texas,0
+48125,Dickens County,Texas,0
+48127,Dimmit County,Texas,0
+48129,Donley County,Texas,0
+48131,Duval County,Texas,0
+48133,Eastland County,Texas,0
+48135,Ector County,Texas,0
+48137,Edwards County,Texas,0
+48139,Ellis County,Texas,0
+48141,El Paso County,Texas,0
+48143,Erath County,Texas,0
+48145,Falls County,Texas,0
+48147,Fannin County,Texas,0
+48149,Fayette County,Texas,0
+48151,Fisher County,Texas,0
+48153,Floyd County,Texas,0
+48155,Foard County,Texas,0
+48157,Fort Bend County,Texas,0
+48159,Franklin County,Texas,0
+48161,Freestone County,Texas,0
+48163,Frio County,Texas,0
+48165,Gaines County,Texas,0
+48167,Galveston County,Texas,0
+48169,Garza County,Texas,0
+48171,Gillespie County,Texas,0
+48173,Glasscock County,Texas,0
+48175,Goliad County,Texas,0
+48177,Gonzales County,Texas,0
+48179,Gray County,Texas,0
+48181,Grayson County,Texas,0
+48183,Gregg County,Texas,0
+48185,Grimes County,Texas,0
+48187,Guadalupe County,Texas,0
+48189,Hale County,Texas,0
+48191,Hall County,Texas,0
+48193,Hamilton County,Texas,0
+48195,Hansford County,Texas,0
+48197,Hardeman County,Texas,0
+48199,Hardin County,Texas,0
+48201,Harris County,Texas,1
+48203,Harrison County,Texas,0
+48205,Hartley County,Texas,0
+48207,Haskell County,Texas,0
+48209,Hays County,Texas,0
+48211,Hemphill County,Texas,0
+48213,Henderson County,Texas,0
+48215,Hidalgo County,Texas,0
+48217,Hill County,Texas,0
+48219,Hockley County,Texas,0
+48221,Hood County,Texas,0
+48223,Hopkins County,Texas,0
+48225,Houston County,Texas,0
+48227,Howard County,Texas,0
+48229,Hudspeth County,Texas,0
+48231,Hunt County,Texas,0
+48233,Hutchinson County,Texas,0
+48235,Irion County,Texas,0
+48237,Jack County,Texas,0
+48239,Jackson County,Texas,0
+48241,Jasper County,Texas,0
+48243,Jeff Davis County,Texas,0
+48245,Jefferson County,Texas,0
+48247,Jim Hogg County,Texas,0
+48249,Jim Wells County,Texas,0
+48251,Johnson County,Texas,0
+48253,Jones County,Texas,0
+48255,Karnes County,Texas,0
+48257,Kaufman County,Texas,0
+48259,Kendall County,Texas,0
+48261,Kenedy County,Texas,0
+48263,Kent County,Texas,0
+48265,Kerr County,Texas,0
+48267,Kimble County,Texas,0
+48269,King County,Texas,0
+48271,Kinney County,Texas,0
+48273,Kleberg County,Texas,0
+48275,Knox County,Texas,0
+48277,Lamar County,Texas,0
+48279,Lamb County,Texas,0
+48281,Lampasas County,Texas,0
+48283,La Salle County,Texas,0
+48285,Lavaca County,Texas,0
+48287,Lee County,Texas,0
+48289,Leon County,Texas,0
+48291,Liberty County,Texas,0
+48293,Limestone County,Texas,0
+48295,Lipscomb County,Texas,0
+48297,Live Oak County,Texas,0
+48299,Llano County,Texas,0
+48301,Loving County,Texas,0
+48303,Lubbock County,Texas,0
+48305,Lynn County,Texas,0
+48307,McCulloch County,Texas,0
+48309,McLennan County,Texas,0
+48311,McMullen County,Texas,0
+48313,Madison County,Texas,0
+48315,Marion County,Texas,0
+48317,Martin County,Texas,0
+48319,Mason County,Texas,0
+48321,Matagorda County,Texas,0
+48323,Maverick County,Texas,0
+48325,Medina County,Texas,0
+48327,Menard County,Texas,0
+48329,Midland County,Texas,0
+48331,Milam County,Texas,0
+48333,Mills County,Texas,0
+48335,Mitchell County,Texas,0
+48337,Montague County,Texas,0
+48339,Montgomery County,Texas,0
+48341,Moore County,Texas,0
+48343,Morris County,Texas,0
+48345,Motley County,Texas,0
+48347,Nacogdoches County,Texas,0
+48349,Navarro County,Texas,0
+48351,Newton County,Texas,0
+48353,Nolan County,Texas,0
+48355,Nueces County,Texas,0
+48357,Ochiltree County,Texas,0
+48359,Oldham County,Texas,0
+48361,Orange County,Texas,0
+48363,Palo Pinto County,Texas,0
+48365,Panola County,Texas,0
+48367,Parker County,Texas,0
+48369,Parmer County,Texas,0
+48371,Pecos County,Texas,0
+48373,Polk County,Texas,0
+48375,Potter County,Texas,0
+48377,Presidio County,Texas,0
+48379,Rains County,Texas,0
+48381,Randall County,Texas,0
+48383,Reagan County,Texas,0
+48385,Real County,Texas,0
+48387,Red River County,Texas,0
+48389,Reeves County,Texas,0
+48391,Refugio County,Texas,0
+48393,Roberts County,Texas,0
+48395,Robertson County,Texas,0
+48397,Rockwall County,Texas,0
+48399,Runnels County,Texas,0
+48401,Rusk County,Texas,0
+48403,Sabine County,Texas,0
+48405,San Augustine County,Texas,0
+48407,San Jacinto County,Texas,0
+48409,San Patricio County,Texas,0
+48411,San Saba County,Texas,0
+48413,Schleicher County,Texas,0
+48415,Scurry County,Texas,0
+48417,Shackelford County,Texas,0
+48419,Shelby County,Texas,0
+48421,Sherman County,Texas,0
+48423,Smith County,Texas,0
+48425,Somervell County,Texas,0
+48427,Starr County,Texas,0
+48429,Stephens County,Texas,0
+48431,Sterling County,Texas,0
+48433,Stonewall County,Texas,0
+48435,Sutton County,Texas,0
+48437,Swisher County,Texas,0
+48439,Tarrant County,Texas,0
+48441,Taylor County,Texas,0
+48443,Terrell County,Texas,0
+48445,Terry County,Texas,0
+48447,Throckmorton County,Texas,0
+48449,Titus County,Texas,0
+48451,Tom Green County,Texas,0
+48453,Travis County,Texas,1
+48455,Trinity County,Texas,0
+48457,Tyler County,Texas,0
+48459,Upshur County,Texas,0
+48461,Upton County,Texas,0
+48463,Uvalde County,Texas,0
+48465,Val Verde County,Texas,0
+48467,Van Zandt County,Texas,0
+48469,Victoria County,Texas,0
+48471,Walker County,Texas,0
+48473,Waller County,Texas,0
+48475,Ward County,Texas,0
+48477,Washington County,Texas,0
+48479,Webb County,Texas,0
+48481,Wharton County,Texas,0
+48483,Wheeler County,Texas,0
+48485,Wichita County,Texas,0
+48487,Wilbarger County,Texas,0
+48489,Willacy County,Texas,0
+48491,Williamson County,Texas,0
+48493,Wilson County,Texas,0
+48495,Winkler County,Texas,0
+48497,Wise County,Texas,0
+48499,Wood County,Texas,0
+48501,Yoakum County,Texas,0
+48503,Young County,Texas,0
+48505,Zapata County,Texas,0
+48507,Zavala County,Texas,0
+17001,Adams County,Illinois,0
+17003,Alexander County,Illinois,0
+17005,Bond County,Illinois,0
+17007,Boone County,Illinois,0
+17009,Brown County,Illinois,0
+17011,Bureau County,Illinois,0
+17013,Calhoun County,Illinois,0
+17015,Carroll County,Illinois,0
+17017,Cass County,Illinois,0
+17019,Champaign County,Illinois,0
+17021,Christian County,Illinois,0
+17023,Clark County,Illinois,0
+17025,Clay County,Illinois,0
+17027,Clinton County,Illinois,0
+17029,Coles County,Illinois,0
+17031,Cook County,Illinois,1
+17033,Crawford County,Illinois,0
+17035,Cumberland County,Illinois,0
+17037,DeKalb County,Illinois,0
+17039,De Witt County,Illinois,0
+17041,Douglas County,Illinois,0
+17043,DuPage County,Illinois,0
+17045,Edgar County,Illinois,0
+17047,Edwards County,Illinois,0
+17049,Effingham County,Illinois,0
+17051,Fayette County,Illinois,0
+17053,Ford County,Illinois,0
+17055,Franklin County,Illinois,0
+17057,Fulton County,Illinois,0
+17059,Gallatin County,Illinois,0
+17061,Greene County,Illinois,0
+17063,Grundy County,Illinois,0
+17065,Hamilton County,Illinois,0
+17067,Hancock County,Illinois,0
+17069,Hardin County,Illinois,0
+17071,Henderson County,Illinois,0
+17073,Henry County,Illinois,0
+17075,Iroquois County,Illinois,0
+17077,Jackson County,Illinois,0
+17079,Jasper County,Illinois,0
+17081,Jefferson County,Illinois,0
+17083,Jersey County,Illinois,0
+17085,Jo Daviess County,Illinois,0
+17087,Johnson County,Illinois,0
+17089,Kane County,Illinois,0
+17091,Kankakee County,Illinois,0
+17093,Kendall County,Illinois,0
+17095,Knox County,Illinois,0
+17097,Lake County,Illinois,0
+17099,LaSalle County,Illinois,0
+17101,Lawrence County,Illinois,0
+17103,Lee County,Illinois,0
+17105,Livingston County,Illinois,0
+17107,Logan County,Illinois,1
+17109,McDonough County,Illinois,0
+17111,McHenry County,Illinois,0
+17113,McLean County,Illinois,0
+17115,Macon County,Illinois,0
+17117,Macoupin County,Illinois,0
+17119,Madison County,Illinois,124
+17121,Marion County,Illinois,0
+17123,Marshall County,Illinois,0
+17125,Mason County,Illinois,0
+17127,Massac County,Illinois,0
+17129,Menard County,Illinois,0
+17131,Mercer County,Illinois,0
+17133,Monroe County,Illinois,22
+17135,Montgomery County,Illinois,0
+17137,Morgan County,Illinois,0
+17139,Moultrie County,Illinois,0
+17141,Ogle County,Illinois,0
+17143,Peoria County,Illinois,0
+17145,Perry County,Illinois,0
+17147,Piatt County,Illinois,0
+17149,Pike County,Illinois,0
+17151,Pope County,Illinois,0
+17153,Pulaski County,Illinois,0
+17155,Putnam County,Illinois,0
+17157,Randolph County,Illinois,0
+17159,Richland County,Illinois,0
+17161,Rock Island County,Illinois,0
+17163,St. Clair County,Illinois,123
+17165,Saline County,Illinois,0
+17167,Sangamon County,Illinois,0
+17169,Schuyler County,Illinois,0
+17171,Scott County,Illinois,0
+17173,Shelby County,Illinois,0
+17175,Stark County,Illinois,0
+17177,Stephenson County,Illinois,0
+17179,Tazewell County,Illinois,0
+17181,Union County,Illinois,0
+17183,Vermilion County,Illinois,0
+17185,Wabash County,Illinois,0
+17187,Warren County,Illinois,0
+17189,Washington County,Illinois,0
+17191,Wayne County,Illinois,0
+17193,White County,Illinois,0
+17195,Whiteside County,Illinois,0
+17197,Will County,Illinois,0
+17199,Williamson County,Illinois,0
+17201,Winnebago County,Illinois,0
+17203,Woodford County,Illinois,0
+25001,Barnstable County,Massachusetts,0
+25003,Berkshire County,Massachusetts,0
+25005,Bristol County,Massachusetts,0
+25007,Dukes County,Massachusetts,0
+25009,Essex County,Massachusetts,0
+25011,Franklin County,Massachusetts,0
+25013,Hampden County,Massachusetts,0
+25015,Hampshire County,Massachusetts,0
+25017,Middlesex County,Massachusetts,0
+25019,Nantucket County,Massachusetts,0
+25021,Norfolk County,Massachusetts,0
+25023,Plymouth County,Massachusetts,0
+25025,Suffolk County,Massachusetts,1
+25027,Worcester County,Massachusetts,0
+42001,Adams County,Pennsylvania,0
+42003,Allegheny County,Pennsylvania,0
+42005,Armstrong County,Pennsylvania,0
+42007,Beaver County,Pennsylvania,0
+42009,Bedford County,Pennsylvania,0
+42011,Berks County,Pennsylvania,13
+42013,Blair County,Pennsylvania,3
+42015,Bradford County,Pennsylvania,0
+42017,Bucks County,Pennsylvania,256
+42019,Butler County,Pennsylvania,3
+42021,Cambria County,Pennsylvania,0
+42023,Cameron County,Pennsylvania,0
+42025,Carbon County,Pennsylvania,0
+42027,Centre County,Pennsylvania,0
+42029,Chester County,Pennsylvania,226
+42031,Clarion County,Pennsylvania,0
+42033,Clearfield County,Pennsylvania,0
+42035,Clinton County,Pennsylvania,0
+42037,Columbia County,Pennsylvania,0
+42039,Crawford County,Pennsylvania,0
+42041,Cumberland County,Pennsylvania,0
+42043,Dauphin County,Pennsylvania,1
+42045,Delaware County,Pennsylvania,289
+42047,Elk County,Pennsylvania,0
+42049,Erie County,Pennsylvania,0
+42051,Fayette County,Pennsylvania,0
+42053,Forest County,Pennsylvania,0
+42055,Franklin County,Pennsylvania,0
+42057,Fulton County,Pennsylvania,0
+42059,Greene County,Pennsylvania,0
+42061,Huntingdon County,Pennsylvania,0
+42063,Indiana County,Pennsylvania,0
+42065,Jefferson County,Pennsylvania,0
+42067,Juniata County,Pennsylvania,0
+42069,Lackawanna County,Pennsylvania,0
+42071,Lancaster County,Pennsylvania,0
+42073,Lawrence County,Pennsylvania,0
+42075,Lebanon County,Pennsylvania,0
+42077,Lehigh County,Pennsylvania,0
+42079,Luzerne County,Pennsylvania,0
+42081,Lycoming County,Pennsylvania,3
+42083,McKean County,Pennsylvania,0
+42085,Mercer County,Pennsylvania,0
+42087,Mifflin County,Pennsylvania,0
+42089,Monroe County,Pennsylvania,1
+42091,Montgomery County,Pennsylvania,550
+42093,Montour County,Pennsylvania,0
+42095,Northampton County,Pennsylvania,1
+42097,Northumberland County,Pennsylvania,0
+42099,Perry County,Pennsylvania,0
+42101,Philadelphia County,Pennsylvania,22
+42103,Pike County,Pennsylvania,0
+42105,Potter County,Pennsylvania,0
+42107,Schuylkill County,Pennsylvania,17
+42109,Snyder County,Pennsylvania,0
+42111,Somerset County,Pennsylvania,0
+42113,Sullivan County,Pennsylvania,0
+42115,Susquehanna County,Pennsylvania,0
+42117,Tioga County,Pennsylvania,0
+42119,Union County,Pennsylvania,0
+42121,Venango County,Pennsylvania,0
+42123,Warren County,Pennsylvania,0
+42125,Washington County,Pennsylvania,1
+42127,Wayne County,Pennsylvania,0
+42129,Westmoreland County,Pennsylvania,0
+42131,Wyoming County,Pennsylvania,0
+42133,York County,Pennsylvania,0
