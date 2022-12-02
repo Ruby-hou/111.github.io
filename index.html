@@ -1,4 +1,894 @@
 <!DOCTYPE html>
 <html lang="en">
-hello world
+
+<head>
+    <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <!-- <title>CSS Template</title> -->
+
+    <meta charset="utf-8" />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.9.2/mapbox-gl.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.9.2/mapbox-gl.css" rel="stylesheet" />
+
+
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <style>
+       
+    </style> -->
+</head>
+
+<body>
+
+    <header>
+        <div class="tab">
+            <buttonhome class="tablinks" onclick="openCity(event, 'HOME');  " id="defaultOpen">HOME</buttonhome>
+            <button2 class="tablinks" onclick="openCity(event, 'p2')" id="c">Category</button2>
+            <button1 class="tablinks" onclick="openCity(event, 'p1');" id="rc">Review Count</button1>
+            <button3 class="tablinks" onclick="openCity(event, 'p3')">Working Hour</button3>
+            <button4 class="tablinks" onclick="openCity(event, 'p4')" id="rs">Rating Star</button4>
+            <button5 class="tablinks" onclick="openCity(event, 'p5')">Modeling</button5>
+
+        </div>
+
+
+    </header>
+
+
+
+    <!-- HOME page -->
+    <div id="HOME" class="tabcontent">
+        <section>
+
+
+            <!-- <article> -->
+            <h1>We are RainbowWaves🌈🌊</h1>
+            <p class="p3">This project establishes relevant businesses visual analysis software by analyzing Yelp business data, and shows the American business rating star and its influencing factors through charts, and makes full use of the advantages of visualization and graphics, which are convenient and quick for understanding location, category, review count and so on. Management and analysis to better demonstrate the current state of American business.</p>
+            <!-- <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p> -->
+            <!-- </article> -->
+        </section>
+
+        <!-- mapbox by kailun -->
+        <h2>Position of each Business in Yelp</h2>
+
+        <div class="card p-3 mb-3">
+            <div>MapBox plot of US with all yelp data point</div>
+            <meta charset="utf-8">
+            <title>Display a map on a webpage</title>
+            <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+            <link href="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css" rel="stylesheet">
+            <script src="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js"></script>
+            <style>
+                .mapboxgl-popup {
+                    max-width: 400px;
+                    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+                }
+
+                body {
+                    margin: 0;
+                    padding: 0;
+                }
+
+                #map {
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    width: 100%;
+                }
+
+                #wrapper {
+                    width: 65px !important;
+                    height: 550px !important;
+                }
+            </style>
+            </head>
+
+            <!-- <body> -->
+            <div id='wrapper'>
+                <div id="map" class="mapboxgl -map">_</div>
+            </div>
+            <script type="text/javascript" src="js_file/maphome.js"></script>
+
+        </div>
+
+
+<br><br>
+        <!-- map2 by hqr-->
+        <div class="text-center mb-2">
+        <h2>Business Count Density Map</h2>
+
+        <div class="mapbox_container">
+
+            <div class="map-overlay" id="features">
+
+                <h2>US Yelp Business Count</h2>
+                <div id="pd2">
+                    <p id="hover">Hover over a state!</p>
+                </div>
+            </div>
+            <div class="map-overlay" id="map2">
+                <script type="text/javascript" src="js_file/map_p2.js"></script>
+
+            </div>
+            <div class="map-overlay" id="legend2"></div>
+        </div>
+
+    </div>
+
+        <!-- table of data for p1 -->
+        <div>
+
+
+            <!-- <section> -->
+
+            <div class="container">
+                <div class="row">
+                    <div class="table-responsive col-md-12">
+                        <h1>Business Information Table</h1>
+                        <h4>(Filter as you want)</h4>
+                        <table class='table table-hover table-striped table-bordered' id='dc-table-graph'>
+                            <thead>
+                                <tr class='table-header'>
+                                    <!-- Programmatically insert table headers here -->
+                                </tr>
+                            </thead>
+                        </table>
+                        <div class="col-sm-12" id="paging">
+                            Showing <span id="begin"></span>-<span id="end"></span> of <span id="size"></span>
+                            <input id="Prev" class="btn btn-secondary" role="button" type="button" value="Prev"
+                                onclick="javascript:prevPage()" />
+                            <input id="Next" class="btn btn-secondary" role="button" type="button" value="Next"
+                                onclick="javascript:nextPage()" />
+                        </div>
+                    </div>
+                </div>
+                <div id="vertical-whitespace" style="padding: 10px"></div>
+            </div>
+
+            <style type="text/css">
+                #paging {
+                    text-align: right;
+                }
+
+                #dc-table-graph th span {
+                    /*Glyphicon style*/
+                    float: right;
+                    font-size: 1em;
+                    color: #0080bf;
+                    display: inline-block;
+                }
+
+                #dc-table-graph th {
+                    cursor: pointer;
+                }
+            </style>
+
+            <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script> -->
+            <script src="node_modules/d35.min.js"></script>
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter2/1.3.14/crossfilter.js"
+                type='text/javascript'></script>
+            <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.1/dc.min.js" type='text/javascript'></script> -->
+            <script src="node_modules/dc.min.js" type='text/javascript'></script>
+
+            <script src="https://code.jquery.com/jquery-3.1.1.min.js" type='text/javascript'></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+                type='text/javascript'></script>
+
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"
+                rel='stylesheet' type='text/css'>
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.1/dc.min.css" rel='stylesheet' type='text/css'>
+
+
+
+            <script type="text/javascript" src="js_file/table.js"></script>
+
+            <!-- </section> -->
+        </div>
+
+
+        <!-- <div>
+            <h2>About Us</h2>
+
+        </div> -->
+
+    </div>
+
+    <!-- page 1 -->
+    <div id="p1" class="tabcontent">
+
+        <div class="text-center mb-2">
+            <h2>Business Review Count Density Map</h2>
+    
+    
+    
+    
+    
+            <!-- draw map -->
+            <div class="mapbox_container">
+    
+                <div class="map-overlay" id="features">
+    
+                    <h2>Review Count Density</h2>
+                    <div id="pd">
+                        <p id="hover">Hover over a state!</p>
+                    </div>
+                </div>
+                <div class="map-overlay" id="map1">
+                    <script type="text/javascript" src="js_file/map_p1.js"></script>
+    
+                </div>
+                <div class="map-overlay" id="legend"></div>
+            </div>
+    
+            </div>
+
+
+
+        <!-- <div class="tab">
+            <buttonp1 class="subtablinks" onclick="openCitysub(event, 'p1-2')">Business Count</buttonp1>
+
+            <buttonp1 class="subtablinks" onclick="openCitysub(event, 'p1-1')" id="defaultOpen">Business Review Count
+            </buttonp1>
+
+        </div> -->
+        <h2>Interactive Donut Chart of Review Count</h2>
+        <div class="card p-3 mb-3">
+            <svg id="my_dataviz" width="1000" height="400" viewBox="0 0 800 450"></svg>
+            <script src="node_modules/d3/dist/d3.min.js"></script>
+            <script src="node_modules/topojson-client/dist/topojson-client.js"></script>
+            <script src="js_file/chart-3.js">
+            </script>
+            <button onclick="update(data1)"
+                style="width:80px;height:50px;position:absolute;left:10px;top:100px;">Indiana</button>
+            <button onclick="update(data2)"
+                style="width:80px;height:50px;position:absolute;left:10px;top:170px">Florida</button>
+            <button onclick="update(data3)"
+                style="width:80px;height:50px;position:absolute;left:10px;top:240px">US</button>
+
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    <div id="p2" class="tabcontent">
+        <!-- <h2>Introduction of 22 categories</h2> -->
+
+        <h2>Category Count Map</h2>
+        <br><br>
+        <h4>Click to show the map</h4>
+
+
+
+        <div class="tab">
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Restaurants")'>Restaurants</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Shopping")'>Shopping</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Food")'>Food</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Beauty")'>Beauty & Spas</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Home")'>Home Services</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Automotive")'>Automotive</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Health")'>Health & Medical</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Local")'>Local Services</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Event")'>Event Planning & Services</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Active")'>Active Life</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Pets")'>Pets</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Nightlife")'>Nightlife</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Hotels")'>Hotels & Travel</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Arts")'>Arts & Entertainment</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Financial")'>Financial Services</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Professional")'>Professional Services</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Public")'>Public Services & Government</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Education")'>Education</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Religious")'>Religious Organizations</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Local")'>Local Flavor</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Other")'>Other</buttonp2>
+            <buttonp2 class='subtablinks' onclick='openCitysub(event, "Mass")'>Mass Media</buttonp2>
+
+            <!-- <buttonp2 class='subtablinks' onclick='openCitysub(event, "Restaurants")'>Restaurants</buttonp2>
+            <buttonp2 class='subtablinks' onclick="openCitysub(event, 'p2-1')" id='defaultOpen'>Business Count
+            </buttonp2>
+            <buttonp2 class="subtablinks" onclick="openCitysub(event, 'p2-2')">Avgerage Stars</buttonp2> -->
+
+        </div>
+
+        <script src="node_modules/d3/dist/d3.min.js"></script>
+        <script src="node_modules/topojson-client/dist/topojson-client.js"></script>
+        <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <link rel="stylesheet" href="./style.css">
+
+        <link href="node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="./github-dark-dimmed.min.css">
+        <script src="./highlight.min.js"></script>
+
+        <script src="./node_modules/highlightjs-copy/dist/highlightjs-copy.min.js"></script>
+        <link rel="stylesheet" href="./node_modules/highlightjs-copy/dist/highlightjs-copy.min.css" />
+
+        <div id="Restaurants" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartRestaurants" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Restaurants.js"></script>
+            </div>
+        </div>
+        <div id="Shopping" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartShopping" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Shopping.js"></script>
+            </div>
+        </div>
+        <div id="Food" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartFood" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Food.js"></script>
+            </div>
+        </div>
+        <div id="Beauty" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartBeauty" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Beauty.js"></script>
+            </div>
+        </div>
+        <div id="Home" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartHome" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Home.js"></script>
+            </div>
+        </div>
+        <div id="Automotive" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartAutomotive" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Automotive.js"></script>
+            </div>
+        </div>
+        <div id="Health" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartHealth" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Health.js"></script>
+            </div>
+        </div>
+        <div id="Local" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartLocal" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Local.js"></script>
+            </div>
+        </div>
+        <div id="Event" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartEvent" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Event.js"></script>
+            </div>
+        </div>
+        <div id="Active" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartActive" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Active.js"></script>
+            </div>
+        </div>
+        <div id="Pets" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartPets" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Pets.js"></script>
+            </div>
+        </div>
+        <div id="Nightlife" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartNightlife" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Nightlife.js"></script>
+            </div>
+        </div>
+        <div id="Hotels" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartHotels" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Hotels.js"></script>
+            </div>
+        </div>
+        <div id="Arts" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartArts" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Arts.js"></script>
+            </div>
+        </div>
+        <div id="Financial" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartFinancial" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Financial.js"></script>
+            </div>
+        </div>
+        <div id="Professional" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartProfessional" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Professional.js"></script>
+            </div>
+        </div>
+        <div id="Public" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartPublic" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Public.js"></script>
+            </div>
+        </div>
+        <div id="Education" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartEducation" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Education.js"></script>
+            </div>
+        </div>
+        <div id="Religious" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartReligious" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Religious.js"></script>
+            </div>
+        </div>
+        <div id="Local" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartLocal" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Local.js"></script>
+            </div>
+        </div>
+        <div id="Other" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartOther" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Other.js"></script>
+            </div>
+        </div>
+        <div id="Mass" class="subtabcontent">
+            <div class="card p-3 mb-3"><svg id="chartMass" width="975" height="610"></svg>
+                <script type="text/javascript" src="js_file/Mass.js"></script>
+            </div>
+        </div>
+
+
+
+
+
+
+        <!-- <h2> Total count for each category of Yelp in US</h2> -->
+        <!-- Kailun Dong's charts -->
+        <!-- <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="./node_modules/d3/dist/d3.min.js"></script>
+        <svg id="barchart" width="960" height="960"></svg>
+
+        <script src="js_file/histogram.js"></script> -->
+
+
+        <!-- <h1>stack bar chart </h1>
+        <svg id="legend1"></svg>
+        <svg id="stack_bar" width="900" height="900"></svg>
+        <script src="js_file/stack_bar.js"></script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- wq's charts -->
+
+
+
+        <link href="charts_wq/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <script src="charts_wq/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+        <link rel="stylesheet" href="charts_wq/style.css">
+
+        <link href="charts_wq/node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+
+        <script src="charts_wq/node_modules/d3/dist/d3.min.js"></script>
+
+
+
+        <!-- 
+        <svg id="chart" width="960" height="960"></svg>
+        <script src="js_file/graph.js"></script> -->
+
+        <!-- <br><br> -->
+        <!-- <h3>Bar Chart </h3> -->
+        <div class="card p-3">
+            <h2 class="text-center">Number of Business in Each Category</h2>
+            <div class="text-center mb-2">
+                Select State
+                <select class="select" id="select_level">
+
+                    <option value="all_level">All</option>
+                    <option value="AZ">Arizona</option>
+                    <option value="CA">California</option>
+                    <option value="CO">Colorado</option>
+                    <option value="DE">Delaware</option>
+                    <option value="FL">Florida</option>
+                    <option value="HI">Hawaii</option>
+                    <option value="ID">Idaho</option>
+                    <option value="IL">Illinois</option>
+                    <option value="IN">Indiana</option>
+                    <option value="LA">Louisiana</option>
+                    <option value="MA">Massachusetts</option>
+                    <option value="MI">Michigan</option>
+                    <option value="MO">Missouri</option>
+                    <option value="MT">Montana</option>
+                    <option value="NJ">New Jersey</option>
+                    <option value="NV">Nevada</option>
+                    <option value="PA">Pensylvania</option>
+                    <option value="SD">South Dakota</option>
+                    <option value="TN">Tennessee</option>
+                    <option value="TX">Texas</option>
+                    <option value="UT">Utah</option>
+                    <option value="VT">Vermont</option>
+                    <option value="WA">Washington</option>
+                </select>
+
+            </div>
+
+
+            <div class="text-center mb-2">
+                Show
+                <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+                    <input type="radio" class="btn-check" name="btnradio" id="all" autocomplete="off" checked>
+                    <label class="btn btn-outline-primary" for="all">All</label>
+
+                    <input type="radio" class="btn-check" name="btnradio" id="top" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="top">Top 5 by Value</label>
+
+                    <input type="radio" class="btn-check" name="btnradio" id="bottom" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="bottom">Bottom 5 by Value</label>
+                </div>
+
+            </div>
+
+            <div class="text-center mb-2">
+                Sort by
+                <div class="btn-group" role="group" aria-label="Basic radio toggle button group2">
+                    <input type="radio" class="btn-check" name="btnradio2" id="alphabetic" autocomplete="off" checked>
+                    <label class="btn btn-outline-primary" for="alphabetic">Alphabetic</label>
+
+                    <input type="radio" class="btn-check" name="btnradio2" id="asc" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="asc">Ascending by Value</label>
+
+                    <input type="radio" class="btn-check" name="btnradio2" id="desc" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="desc">Descending by Value</label>
+                </div>
+
+
+
+                <div id="chart2"></div>
+
+                <script src="js_file/bar.js"></script>
+
+
+
+
+                <br><br><br>
+            </div>
+
+            <!-- <h2>Category Distribution in State</h2>
+
+            <div class="tab">
+                <buttonp23 class='subtablinks' onclick='openCitysub(event, "wqpie1")'>All State</buttonp23>
+                <buttonp23 class='subtablinks' onclick='openCitysub(event, "wqpie2")'>PA</buttonp23>
+                <buttonp23 class='subtablinks' onclick='openCitysub(event, "wqpie3")'>FL</buttonp23>
+                <buttonp23 class='subtablinks' onclick='openCitysub(event, "wqpie4")'>CA</buttonp23>
+
+            </div> -->
+
+            <!-- <h3>Pie Chart</h3> -->
+
+            <!-- 
+            <div id="wqpie1" class="subtabcontent">
+
+                <svg id="chart3" width="960" height="960"></svg>
+                <script src="js_file/pie.js"></script>
+            </div>
+
+
+            <div id="wqpie2" class="subtabcontent">
+
+                <svg id="chart4" width="960" height="960"></svg>
+                <script src="js_file/pie2.js"></script>
+            </div>
+
+            <div id="wqpie3" class="subtabcontent">
+
+                <svg id="chart5" width="960" height="960"></svg>
+                <script src="js_file/pie3.js"></script>
+            </div>
+
+
+            <div id="wqpie4" class="subtabcontent">
+
+                <svg id="chart6" width="960" height="960"></svg>
+                <script src="js_file/pie4.js"></script>
+            </div> -->
+
+
+
+            <!-- dmy's chart -->
+            <!-- <h3>Interactive Donut Chart for Count of Top Business Categories</h3> -->
+
+            <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+            <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+            <link rel="stylesheet" href="./style.css">
+
+            <link href="node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+            <link rel="stylesheet" href="./github-dark-dimmed.min.css">
+            <script src="./highlight.min.js"></script>
+
+            <!-- <script src="./node_modules/highlightjs-copy/dist/highlightjs-copy.min.js"></script> -->
+            <link rel="stylesheet" href="./node_modules/highlightjs-copy/dist/highlightjs-copy.min.css" />
+            <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+
+           
+
+        </div>
+        <!-- dd's chart -->
+        <h2>Choropleth Chart of Category</h2>
+        <div class="card p-3 mb-3">
+            <svg id="chart-2" width="1000" height="800"></svg>
+            <script src="node_modules/d3/dist/d3.min.js"></script>
+            <script src="node_modules/topojson-client/dist/topojson-client.js"></script>
+            <script src="js_file/chart-2.js">
+            </script>
+        </div>
+
+    </div>
+
+
+
+    <!-- page 3 -->
+
+    <div id="p3" class="tabcontent">
+        <!-- <h1>Introduction</h1> -->
+        <p> <small>This page focus on average daily working hour in weekdays and weekends.
+            </small></p>
+        <!-- <svg id="legendhour"></svg> -->
+        <h2>Stack Bar Chart of Working Hours</h2>
+        <svg id="stack_hour" width="900" height="900"></svg>
+        <script src="js_file/stack_hour.js"></script>
+
+
+
+
+        <style>
+            .container1 {
+                float: left;
+            }
+
+            .container2 {
+                float: right;
+            }
+        </style>
+        <h2>Distribution of Weekday Working Hours</h2>
+
+
+        <!-- <div class ="container1" >  -->
+        <svg id="chart3" width="850" height="850"></svg>
+        <h2>Distribution of Weekend Working Hours</h2>
+        <svg id="chart4" width="850" height="850"></svg>
+        <!-- </div> -->
+
+        <script src="js_file/pie.js"></script>
+
+        <script src="js_file/pie2.js"></script>
+
+
+    </div>
+
+
+
+
+
+
+
+    <!-- page 4 -->
+
+    <div id="p4" class="tabcontent">
+        <!-- <h2>Introduction</h2> -->
+
+        <!-- map2 by hqr-->
+        <div class="text-center mb-2">
+        <h2>Business Average Star Map</h2>
+
+        <div class="mapbox_container">
+
+            <div class="map-overlay" id="features">
+
+                <h2>US Yelp Average Star</h2>
+                <div id="pd3">
+                    <h3>Hover over a state!</h3>
+                </div>
+            </div>
+            <div class="map-overlay" id="map3">
+                <script type="text/javascript" src="js_file/map_p3.js"></script>
+
+            </div>
+            <div class="map-overlay" id="legend3"></div>
+        </div>
+    </div>
+      
+
+        <h2>Business Average Stars with Is_Open</h2>
+        <svg id="svgwq" width="960" height="1400"></svg>
+
+        <script src="js_file/d3.min.js"></script>
+        <script src="js_file/yelp.js"></script>
+
+
+
+
+        <h2>Line Chart between Stars and Review Counts </h2>
+        <div class="card p-3 mb-3">
+            <svg id="chartline" width="800" height="600" viewBox="0 0 350 400"></svg>
+            <script src="node_modules/d3/dist/d3.min.js"></script>
+            <script src="node_modules/topojson-client/dist/topojson-client.js"></script>
+            <script src="js_file/linechart.js"></script>
+            <button onclick="updateLine(dataline1)"
+                style="width:120px;height:50px;position:absolute;left:10px;top:100px;">Tennessee</button>
+            <button onclick="updateLine(dataline2)"
+                style="width:120px;height:50px;position:absolute;left:10px;top:170px">Pennsylvania</button>
+            <button onclick="updateLine(dataline3)"
+                style="width:120px;height:50px;position:absolute;left:10px;top:240px">US</button>
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+    <div id="p5" class="tabcontent">
+
+
+        <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+        <link rel="stylesheet" href="./style.css">
+
+        <link href="node_modules/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+
+        <script src="./node_modules/d3/dist/d3.min.js"></script>
+
+
+        <!-- <body> -->
+
+        <style>
+            p {
+                font-size: 29px;
+            }
+        </style>
+
+        <div class="card p-3">
+            <h2 class="text-center">Modeling Analysis</h2>
+            <br><br>
+            <div class="text-center mb-2">
+                <b>User:</b> <br><br>
+                Number of Reviews You Wrote
+                <select class="custom-select" id="user_review_count">
+                    <option value="">review count</option>
+                    <option value="500">500</option>
+                    <option value="1500">1500</option>
+                    <option value="2500">2500</option>
+                    <option value="3500">3500</option>
+                    <option value="4500">4500</option>
+                </select>
+                Average of Stars You Rate
+
+                <select class="custom-select" id="user_avg_star">
+                    <option value="">Average Stars</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                Number of Useful Reviews
+                <select class="custom-select" id="review_useful">
+                    <option value="">Percantage</option>
+                    <option value="0.25">Less than 50%</option>
+                    <option value="0.75">More than 50%</option>
+                </select>
+                <br><br>
+                <b>Business:</b>
+                <br><br>
+                business stars
+                <select class="custom-select" id="business_stars">
+                    <option value="">Star Level</option>
+                    <option value="1">1</option>
+                    <option value="1.5">1.5</option>
+                    <option value="2">2</option>
+                    <option value="2.5">2.5</option>
+                    <option value="3">3</option>
+                    <option value="3.5">3.5</option>
+                    <option value="4">4</option>
+                    <option value="4.5">4.5</option>
+                    <option value="5">5</option>
+                </select>
+                Business Review Count
+                <select class="custom-select" id="business_review_count">
+                    <option value="">Count</option>
+                    <option value="700">700</option>
+                    <option value="2100">2100</option>
+                    <option value="3500">3500</option>
+                    <option value="4900">4900</option>
+                    <option value="6300">6300</option>
+                </select>
+                Business Open Status
+                <select class="custom-select" id="is_open">
+                    <option value="">Open Status</option>
+                    <option value="0">Closed</option>
+                    <option value="1">Open</option>
+
+                </select>
+                <br><br>
+                Business Category
+                <select class="custom-select" id="new_category">
+                    <option value="">Category</option>
+                    <option value="20">restaurants</option>
+                    <option value="21">shopping</option>
+                    <option value="3">beauty&spas</option>
+                    <option value="7">food</option>
+                    <option value="9"> home service</option>
+                </select>
+                Average Weekdays Open Hours
+                <select class="custom-select" id="weekdays_hours">
+                    <option value="">Open Hours</option>
+                    <option value="2.5">2.5</option>
+                    <option value="7.5">7.5</option>
+                    <option value="12.5">12.5</option>
+                    <option value="17.5">17.5</option>
+                    <option value="22">22</option>
+                </select>
+                Average Weekend Open Hours
+                <select class="custom-select" id="weekend_hours">
+                    <option value="">Open Hours</option>
+                    <option value="2.5">2.5</option>
+                    <option value="7.5">7.5</option>
+                    <option value="12.5">12.5</option>
+                    <option value="17.5">17.5</option>
+                    <option value="22">22</option>
+                </select>
+                <br><br>
+                <button type="button" onclick="predict()">Predict</button>
+                <br><br>
+                <div id="fill_in">Please fill in all the choices</div>
+
+                <div id="ready">Ready to Predict</div>
+                <br><br>
+                <p id="demo"><b></b></p>
+            </div>
+
+
+
+
+
+
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+            <script src="js_file/model.js"></script>
+        </div>
+    </div>
+
+
+
+    <script src="js_file/tab.js"></script>
+
+
+</body>
+
 </html>

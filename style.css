@@ -1,0 +1,721 @@
+body {
+  margin: 20px 25px 25px 25px;
+}
+
+pre {
+  border-radius: 5px;
+}
+
+h1 {
+  /* text-shadow:
+    0 0 5px #0f0,
+    0 0 10px #0f0,
+    0 0 20px #0f0,
+    0 0 40px #0f0,
+    0 0 80px #0f0,
+    0 0 90px #0f0,
+    0 0 100px #0f0,
+    0 0 150px #0f0; */
+    text-align: center;
+}  
+
+#hover {
+  font-size: 15px;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: Garamond, serif;
+  /* font-family: "Trebuchet MS", Helvetica, sans-serif; */
+  padding: 0px;
+  margin: 0px;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 15px;
+}
+
+/* Style the header */
+header {
+  background-color: #f79d65;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 500px;
+  /* width: 30%; */
+  /* height: 300px;  */
+  height: 500px;
+  /* only for demonstration, should be removed */
+  /* background: #ccc; */
+  background: white;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: center;
+  padding: 20px;
+  width: 600px;
+  /* width: 100%; */
+  background-color: white;
+  /* height: 300px;  */
+  /* only for demonstration, should be removed */
+  height: 480px;
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+/* footer {
+background-color: #f7b267;
+padding: 10px;
+text-align: center;
+color: white;
+} */
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  /* @media (max-width: 100%) { */
+
+  nav,
+  article {
+      /* width: 100%; */
+      width: 600px;
+      height: auto;
+  }
+}
+
+/* style tab */
+.tab {
+  overflow: hidden;
+
+
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+
+
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* button for page home */
+.tab buttonhome {
+  background-color: #544f4f;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab buttonhome:hover {
+  background-color: #827979;
+}
+
+/* Create an active/current tablink class */
+.tab buttonhome.active {
+  background-color: #004e89;
+}
+
+/* button for page 1 */
+.tab button1 {
+  background-color: #008000;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab button1:hover {
+  background-color: #38b000;
+}
+
+/* Create an active/current tablink class */
+.tab button1.active {
+  background-color: #004e89;
+}
+
+/* button for page 2 */
+.tab button2 {
+  background-color: #a3c4f3;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab button2:hover {
+  background-color: #98f5e1;
+}
+
+/* Create an active/current tablink class */
+.tab button2.active {
+  background-color: #004e89;
+}
+
+.tab button3 {
+  background-color: #25BFAC;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab button3:hover {
+  background-color: #6CB9AD;
+}
+
+/* Create an active/current tablink class */
+.tab button3.active {
+  background-color: #004e89;
+}
+
+
+.tab button4 {
+  background-color: #FD9019;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab button4:hover {
+  background-color: 
+  #F49355;
+}
+
+/* Create an active/current tablink class */
+.tab button4.active {
+  background-color: #004e89;
+}
+
+.tab button5 {
+  background-color: #CEA707;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab button5:hover {
+  background-color: #C6A85D;
+}
+
+/* Create an active/current tablink class */
+.tab button5.active {
+  background-color: #004e89;
+}
+
+.tab buttonp23 {
+  background-color: #C699E9;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab buttonp23:hover {
+  background-color: #DB93D3;
+}
+
+/* Create an active/current tablink class */
+.tab buttonp23.active {
+  background-color: #A3A2FE;
+}
+
+
+.tab buttonp1 {
+  background-color: #e1aa29;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab buttonp1:hover {
+  background-color: #f4f0af;
+}
+
+/* Create an active/current tablink class */
+.tab buttonp1.active {
+  background-color: #cab216;
+}
+
+.tab buttonp2 {
+  background-color: #E892AC;
+  /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 1px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+
+}
+
+/* Change background color of buttons on hover */
+.tab buttonp2:hover {
+  background-color: #D0A18E;
+}
+
+/* Create an active/current tablink class */
+.tab buttonp2.active {
+  background-color: #DC9B93;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.subtabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+/* mapbox style in p1 */
+
+.mapbox_container {
+  /* top: 1000px; */
+  /* position: absolute; */
+  /* position: relative; */
+  height: 600px !important;
+  width: 1000px !important;
+  display: inline-block;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  /* text-shadow:
+0 0 5px #0f0,
+0 0 10px #0f0,
+0 0 20px #0f0,
+0 0 40px #0f0,
+0 0 80px #0f0,
+0 0 90px #0f0,
+0 0 100px #0f0,
+0 0 150px #0f0; */
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin: 10px;
+  font-size: 16px;
+}
+
+/* h3 {
+  font-size: 16px;
+} */
+
+p {
+  margin: 10px;
+  font-size: 5px;
+}
+
+.map-overlay {
+  /* position: absolute; */
+  /* bottom: 0; */
+  /* top:0; */
+  /* left: 280px;  */
+  background: #f4845f;
+  margin-left: 10px;
+  text-align: left; 
+  font-family: Arial, sans-serif;
+  overflow: auto;
+  border-radius: 3px;
+  float: left;
+  /* width:100% */
+}
+
+/* #map { */
+/* position: relative; */
+/* position: absolute; */
+/* bottom: 100px;
+right: 79px; */
+/* top: 10px;
+  bottom: 10px; */
+/* width: 70%; */
+/* width: 650px;
+  height: 500px; */
+/* width: 800px; ushtml
+height: 550px; */
+/* } */
+
+
+#map1 {
+  position: relative;
+  /* position: absolute; */
+  /* bottom: 100px;
+right: 79px; */
+  top: 10px;
+  bottom: 10px;
+  /* width: 70%; */
+  width: 650px;
+  height: 500px;
+  /* width: 800px; ushtml
+height: 550px; */
+}
+#map2 {
+  position: relative;
+  /* position: absolute; */
+  /* bottom: 100px;
+right: 79px; */
+  top: 10px;
+  bottom: 10px;
+  /* width: 70%; */
+  width: 650px;
+  height: 500px;
+  /* width: 800px; ushtml
+height: 550px; */
+}
+
+#map3 {
+  position: relative;
+  /* position: absolute; */
+  /* bottom: 100px;
+right: 79px; */
+  top: 10px;
+  bottom: 10px;
+  /* width: 70%; */
+  width: 650px;
+  height: 500px;
+  /* width: 800px; ushtml
+height: 550px; */
+}
+
+#features {
+  /* top: 0; */
+  height: 130px;
+  margin-top: 20px;
+  width: 220px;
+  bottom: 40px;
+  right: 1000px;
+  /* left: 280px;  */
+}
+
+#features2 {
+  /* top: 0; */
+  height: 130px;
+  margin-top: 20px;
+  width: 220px;
+  bottom: 40px;
+  right: 1000px;
+}
+
+#legend {
+  padding: 10px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 18px;
+  height: 200px;
+  margin-bottom: 40px;
+  width: 100px;
+}
+
+#legend2 {
+  padding: 10px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 18px;
+  text-align: left; 
+  height: 200px;
+  margin-bottom: 40px;
+  width: 100px;
+}
+
+#legend3 {
+  padding: 10px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 18px;
+  height: 200px;
+  margin-bottom: 40px;
+  width: 100px;
+}
+
+.legend-key {
+  display: inline-block;
+  border-radius: 20%;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+
+.legend-key2 {
+  display: inline-block;
+  border-radius: 20%;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+
+.legend-key3 {
+  display: inline-block;
+  border-radius: 20%;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+
+
+/* wq's chart */
+.link {
+  fill: none;
+  stroke: #555;
+  stroke-opacity: 0.4;
+  stroke-width: 1px;
+}
+
+text {
+  font-family: "Arial Black", Gadget, sans-serif;
+  fill: black;
+  font-weight: bold;
+  font-size: 14px
+}
+
+.xAxis .tick text {
+  fill: black;
+}
+
+.grid .tick line {
+  stroke: grey;
+  stroke-dasharray: 5, 10;
+  opacity: 0.7;
+}
+
+.grid path {
+  stroke-width: 0;
+}
+
+.node circle {
+  fill: #999;
+}
+
+.node--internal circle {
+  fill: #555;
+}
+
+.node--internal text {
+  font-size: 16px;
+  text-shadow: 0 2px 0 #fff, 0 -2px 0 #fff, 2px 0 0 #fff, -2px 0 0 #fff;
+}
+
+.node--leaf text {
+  fill: white;
+}
+
+.ballG text {
+  fill: white;
+}
+
+.shadow {
+  -webkit-filter: drop-shadow(-1.5px -1.5px 1.5px #000);
+  filter: drop-shadow(-1.5px -1.5px 1.5px #000);
+}
+
+
+
+
+/* model part by wq */
+pre {
+  border-radius: 5px;
+  }
+  
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    font-family: times;
+    font-size: 10pt;
+  }
+  
+  /* text {
+    font-family: times;
+    font-size: 14pt;
+  } */
+  
+  svg {
+    display: block;
+    margin: auto;
+    /* background-color: #fafafa; */
+  }
+  
+  .bar {
+    fill: #1298c477; 
+  }
+  
+  text.label {
+    text-anchor: middle;
+    alignment-baseline: central;
+    font-size: 14pt;
+  }
+  
+  text.name {
+    font-weight: bold;
+    text-anchor: middle;
+    alignment-baseline: central;
+  }
+    .select {
+      padding: 1px;
+      width: 200px;
+      font-size:16px;
+      text-align: center; 
+      border-bottom: 3px solid teal; 
+    }
+    .custom-select {
+      padding: 1px;
+      width: 200px;
+      font-size:16px;
+      text-align: center; 
+      border-bottom: 3px solid teal; 
+    }

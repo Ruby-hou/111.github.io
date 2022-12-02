@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch ex1.html",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/lab/ex1.html"
+        },
+        {
+            "name": "Launch ex2.html",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/lab/ex2.html"
+        },
+        {
+            "name": "Launch ex3.html",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/lab/ex3.html"
+        },
+        {
+            "name": "Launch ex4.html",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/lab/ex4.html"
+        },
+        {
+            "name": "Launch ex5.html",
+            "type": "chrome",
+            "request": "launch",
+            "file": "${workspaceFolder}/lab/ex5.html"
+        },
+    ]
+}
